@@ -1,0 +1,2157 @@
+﻿ID,Type,Bedroom,Bathroom,Square_feet,Price per Sqft,Price
+1,1.5-storey Terraced House,3,3,1920,771,1480000
+2,1.5-storey Terraced House,3,3,1500,265,397500
+3,1.5-storey Terraced House,6,3,2000,850,1700000
+4,1.5-storey Terraced House,6,3,1920,859,1650000
+5,1.5-storey Terraced House,4,3,1600,481,770000
+6,1.5-storey Terraced House,3,3,1672,478,800000
+7,1.5-storey Terraced House,4,3,3000,267,800000
+8,1.5-storey Terraced House,3,2,1800,444,800000
+9,1.5-storey Terraced House ,3,3,2196,346,760000
+10,1-storey Terraced House,3,2,1920,625,1200000
+11,1-storey Terraced House,8,2,1200,433,520000
+12,1-storey Terraced House,3,2,862,464,400000
+13,1-storey Terraced House,4,3,1760,653,1150000
+14,1-storey Terraced House,3,2,1096,520,570000
+15,1-storey Terraced House,3,2,1920,573,1100000
+16,1-storey Terraced House,3,2,1540,474,730000
+17,1-storey Terraced House,3,2,1540,468,720000
+18,1-storey Terraced House,4,2,1650,381,628000
+19,1-storey Terraced House,4,2,1400,486,680000
+20,1-storey Terraced House,4,2,1100,455,500000
+21,1-storey Terraced House,3,1,1200,496,595000
+22,1-storey Terraced House,6,3,1300,508,660000
+23,1-storey Terraced House,4,2,1200,625,750000
+24,1-storey Terraced House,3,2,1400,479,670000
+25,1-storey Terraced House,8,9,1700,759,1290000
+26,1-storey Terraced House,3,2,1100,591,650000
+27,1-storey Terraced House,4,2,1600,388,620000
+28,1-storey Terraced House,4,2,1650,297,490000
+29,1-storey Terraced House,4,2,1760,398,700000
+30,1-storey Terraced House,3,2,1100,409,450000
+31,1-storey Terraced House,2,1,800,388,310000
+32,1-storey Terraced House,3,2,900,542,488000
+33,1-storey Terraced House,3,2,1650,339,560000
+34,1-storey Terraced House,4,2,1650,339,560000
+35,1-storey Terraced House,4,3,1639,732,1200000
+36,1-storey Terraced House,4,2,1200,514,617000
+37,1-storey Terraced House,3,2,1200,358,430000
+38,1-storey Terraced House,3,2,1200,567,680000
+39,1-storey Terraced House,3,2,1100,864,950000
+40,1-storey Terraced House,3,1,1430,308,440000
+41,1-storey Terraced House,4,2,1300,581,755000
+42,1-storey Terraced House,3,1,1540,364,560000
+43,1-storey Terraced House,3,2,2450,286,699998
+44,1-storey Terraced House,7,3,1300,385,500000
+45,1-storey Terraced House,7,2,1200,433,520000
+46,1-storey Terraced House ,10,4,2350,383,900000
+47,1-storey Terraced House ,6,4,1023,420,430000
+48,1-storey Terraced House ,4,3,1650,533,880000
+49,1-storey Terraced House ,3,2,1700,406,690000
+50,1-storey Terraced House ,3,2,1700,694,1180000
+51,1-storey Terraced House ,3,2,1300,423,550000
+52,1-storey Terraced House ,4,2,1430,343,490000
+53,2.5-storey Terraced House,4,3,1830,874,1600000
+54,2.5-storey Terraced House,3,2,1000,398,398000
+55,2.5-storey Terraced House,6,5,2560,461,1180000
+56,2.5-storey Terraced House,3,2,1200,417,500000
+57,2.5-storey Terraced House,6,5,1540,1026,1580000
+58,2.5-storey Terraced House,5,4,2185,805,1760000
+59,2.5-storey Terraced House,5,5,2500,364,910000
+60,2.5-storey Terraced House,6,6,3600,528,1900000
+61,2.5-storey Terraced House,5,4,2600,635,1650000
+62,2.5-storey Terraced House,3,3,1800,417,750000
+63,2.5-storey Terraced House,6,5,2800,482,1350000
+64,2.5-storey Terraced House,6,6,3600,528,1900000
+65,2.5-storey Terraced House,3,3,1500,499,748000
+66,2.5-storey Terraced House,4,3,3920,247,970000
+67,2.5-storey Terraced House,6,5,2800,564,1580000
+68,2.5-storey Terraced House,6,5,1540,766,1180000
+69,2.5-storey Terraced House,4,4,2500,420,1050000
+70,2.5-storey Terraced House,5,4,2800,429,1200000
+71,2.5-storey Terraced House,7,7,3345,532,1780000
+72,2.5-storey Terraced House,6,6,3600,528,1900000
+73,2.5-storey Terraced House ,5,4,2798,608,1700000
+74,2.5-storey Terraced House ,3,2,1200,375,450000
+75,2.5-storey Terraced House ,5,4,3000,283,850000
+76,2.5-storey Terraced House ,4,3,2008,488,980000
+77,2-storey Terraced House,5,4,3165,151,478000
+78,2-storey Terraced House,4,4,2900,184,532888
+79,2-storey Terraced House,4,4,2873,144,415000
+80,2-storey Terraced House,4,4,2645,158,418888
+81,2-storey Terraced House,4,4,2645,166,438660
+82,2-storey Terraced House,5,2,1600,594,950000
+83,2-storey Terraced House,4,3,2400,425,1020000
+84,2-storey Terraced House,4,2,2200,477,1050000
+85,2-storey Terraced House,4,3,1700,459,780000
+86,2-storey Terraced House,4,2,1080,556,600000
+87,2-storey Terraced House,4,4,3251,203,661000
+88,2-storey Terraced House,4,3,1800,416,748000
+89,2-storey Terraced House,4,4,3100,158,488888
+90,2-storey Terraced House,4,4,2900,152,440888
+91,2-storey Terraced House,4,4,3200,162,517888
+92,2-storey Terraced House,4,4,2580,185,478000
+93,2-storey Terraced House,4,3,2150,235,506000
+94,2-storey Terraced House,4,3,2500,720,1800000
+95,2-storey Terraced House,4,4,3000,166,498888
+96,2-storey Terraced House,3,2,1200,607,728000
+97,2-storey Terraced House,4,4,3100,169,522500
+98,2-storey Terraced House,4,3,1650,568,938000
+99,2-storey Terraced House,2,1,800,475,380000
+100,2-storey Terraced House,4,4,2780,151,418888
+101,2-storey Terraced House,4,4,3200,162,518888
+102,2-storey Terraced House,3,2,1370,350,480000
+103,2-storey Terraced House,4,4,3183,135,429000
+104,2-storey Terraced House,4,3,2688,207,557000
+105,2-storey Terraced House,4,4,3100,165,510666
+106,2-storey Terraced House,4,4,2500,172,430888
+107,2-storey Terraced House,4,2,2000,400,800000
+108,2-storey Terraced House,5,3,2000,500,1000000
+109,2-storey Terraced House,3,2,1150,417,480000
+110,2-storey Terraced House,4,3,1900,421,800000
+111,2-storey Terraced House,4,4,2900,148,428888
+112,2-storey Terraced House,4,2,2000,900,1800000
+113,2-storey Terraced House,4,4,1200,740,888000
+114,2-storey Terraced House,3,2,1370,350,480000
+115,2-storey Terraced House,6,6,3081,402,1238000
+116,2-storey Terraced House,4,4,3200,160,510666
+117,2-storey Terraced House,4,3,2100,210,439999
+118,2-storey Terraced House,4,3,2780,172,479000
+119,2-storey Terraced House,5,4,2215,293,650000
+120,2-storey Terraced House,4,4,2900,181,523888
+121,2-storey Terraced House,4,4,2685,151,405399
+122,2-storey Terraced House,3,2,850,965,820000
+123,2-storey Terraced House,4,4,3183,134,427000
+124,2-storey Terraced House,4,2,2000,340,680000
+125,2-storey Terraced House,4,4,2800,175,488888
+126,2-storey Terraced House,4,4,2900,169,489999
+127,2-storey Terraced House,4,4,3028,132,398639
+128,2-storey Terraced House,4,3,2100,371,780000
+129,2-storey Terraced House,4,4,1800,417,750000
+130,2-storey Terraced House,4,4,3300,151,498000
+131,2-storey Terraced House,4,4,3100,154,478888
+132,2-storey Terraced House,4,4,3300,151,499000
+133,2-storey Terraced House,4,3,4000,425,1700000
+134,2-storey Terraced House,5,3,2400,325,780000
+135,2-storey Terraced House,5,3,1650,356,588000
+136,2-storey Terraced House,4,3,1650,605,998000
+137,2-storey Terraced House,2,1,1000,360,360000
+138,2-storey Terraced House,2,1,770,429,330000
+139,2-storey Terraced House,4,4,2890,149,430000
+140,2-storey Terraced House,3,2,1370,350,480000
+141,2-storey Terraced House,4,4,3063,130,396817
+142,2-storey Terraced House,4,3,2200,222,488888
+143,2-storey Terraced House,4,4,2899,162,468888
+144,2-storey Terraced House,4,4,2781,154,428888
+145,2-storey Terraced House,4,4,3100,154,476888
+146,2-storey Terraced House,4,3,4300,274,1180000
+147,2-storey Terraced House,5,4,2378,346,823900
+148,2-storey Terraced House,4,3,2200,219,480888
+149,2-storey Terraced House,4,4,3300,142,470000
+150,2-storey Terraced House,4,4,3100,158,488888
+151,2-storey Terraced House,4,4,2900,144,418888
+152,2-storey Terraced House,4,3,2000,285,570000
+153,2-storey Terraced House,4,3,1600,500,800000
+154,2-storey Terraced House,5,4,3200,150,480000
+155,2-storey Terraced House,4,3,1800,806,1450000
+156,2-storey Terraced House,4,4,3100,161,499999
+157,2-storey Terraced House,4,3,2034,526,1070000
+158,2-storey Terraced House,4,4,3000,145,433888
+159,2-storey Terraced House,4,4,2200,198,435000
+160,2-storey Terraced House,4,4,3100,162,500888
+161,2-storey Terraced House,4,4,3025,132,399889
+162,2-storey Terraced House,4,3,3430,286,980000
+163,2-storey Terraced House,3,3,1650,533,880000
+164,2-storey Terraced House,4,4,3164,166,523888
+165,2-storey Terraced House,4,4,3100,171,530888
+166,2-storey Terraced House,4,3,2500,300,750000
+167,2-storey Terraced House,4,4,2890,151,436000
+168,2-storey Terraced House,4,4,2980,188,558888
+169,2-storey Terraced House,3,2,1370,350,480000
+170,2-storey Terraced House,4,3,2610,179,466200
+171,2-storey Terraced House,4,3,2333,181,423000
+172,2-storey Terraced House,4,4,2800,145,405888
+173,2-storey Terraced House,4,4,3018,130,392388
+174,2-storey Terraced House,5,3,2500,392,980000
+175,2-storey Terraced House,4,4,2394,188,449000
+176,2-storey Terraced House,4,4,2900,141,408388
+177,2-storey Terraced House,4,4,3100,162,502888
+178,2-storey Terraced House,4,4,2700,152,410700
+179,2-storey Terraced House,4,3,2200,327,719000
+180,2-storey Terraced House,5,3,2450,571,1399998
+181,2-storey Terraced House,4,3,2000,650,1300000
+182,2-storey Terraced House,4,4,3100,162,501888
+183,2-storey Terraced House,4,4,3200,159,507888
+184,2-storey Terraced House,4,3,2300,804,1850000
+185,2-storey Terraced House,5,3,1650,412,680000
+186,2-storey Terraced House,4,4,3264,131,427829
+187,2-storey Terraced House,4,3,1800,422,760000
+188,2-storey Terraced House,4,3,1507,457,688500
+189,2-storey Terraced House,4,4,2900,155,448888
+190,2-storey Terraced House,4,4,3100,162,501888
+191,2-storey Terraced House,4,4,2800,164,458888
+192,2-storey Terraced House,4,4,2666,156,416588
+193,2-storey Terraced House,2,2,920,413,380000
+194,2-storey Terraced House,5,4,3000,533,1600000
+195,2-storey Terraced House,4,3,2362,804,1900000
+196,2-storey Terraced House,4,3,1200,567,680000
+197,2-storey Terraced House,4,4,3100,149,460888
+198,2-storey Terraced House,4,4,2790,145,405688
+199,2-storey Terraced House,4,3,2200,450,990000
+200,2-storey Terraced House,4,3,1800,489,880000
+201,2-storey Terraced House,4,4,2680,190,508888
+202,2-storey Terraced House,4,3,1400,357,500000
+203,2-storey Terraced House,4,4,2668,155,412800
+204,2-storey Terraced House,4,3,1700,459,780000
+205,2-storey Terraced House,4,4,2800,147,411888
+206,2-storey Terraced House,4,4,3100,169,522888
+207,2-storey Terraced House,4,4,2880,140,402988
+208,2-storey Terraced House,4,3,1920,729,1400000
+209,2-storey Terraced House,4,3,1800,1000,1800000
+210,2-storey Terraced House,4,3,1970,853,1680000
+211,2-storey Terraced House,4,4,2900,140,405888
+212,2-storey Terraced House,4,3,2200,818,1799998
+213,2-storey Terraced House,4,3,2150,235,506000
+214,2-storey Terraced House,4,3,1400,364,510000
+215,2-storey Terraced House,4,4,2900,151,438888
+216,2-storey Terraced House,4,4,2532,192,487000
+217,2-storey Terraced House,4,3,1200,504,605000
+218,2-storey Terraced House,4,2,880,773,680000
+219,2-storey Terraced House,4,3,1800,442,795000
+220,2-storey Terraced House,4,4,2270,184,418680
+221,2-storey Terraced House,4,4,3100,176,545888
+222,2-storey Terraced House,4,4,3100,145,450888
+223,2-storey Terraced House,4,4,3300,153,503888
+224,2-storey Terraced House,4,3,2960,405,1200000
+225,2-storey Terraced House,5,3,2000,550,1100000
+226,2-storey Terraced House,3,4,2000,950,1900000
+227,2-storey Terraced House,3,2,825,455,375000
+228,2-storey Terraced House,4,4,3100,152,471888
+229,2-storey Terraced House,4,4,2755,200,550888
+230,2-storey Terraced House,4,4,2273,185,420888
+231,2-storey Terraced House,4,4,2300,200,460000
+232,2-storey Terraced House,4,4,3100,162,500888
+233,2-storey Terraced House,4,4,2876,163,467888
+234,2-storey Terraced House,3,2,1370,350,480000
+235,2-storey Terraced House,4,4,2579,174,447800
+236,2-storey Terraced House,4,4,2800,179,501888
+237,2-storey Terraced House,4,4,2900,196,568888
+238,2-storey Terraced House,5,3,1600,599,958000
+239,2-storey Terraced House,3,2,1380,477,658000
+240,2-storey Terraced House,5,4,2778,145,402000
+241,2-storey Terraced House,4,4,3100,157,487777
+242,2-storey Terraced House,4,3,2200,341,750000
+243,2-storey Terraced House,4,4,1400,521,730000
+244,2-storey Terraced House,4,4,2800,175,488888
+245,2-storey Terraced House,4,4,3100,157,487888
+246,2-storey Terraced House,5,3,1870,668,1250000
+247,2-storey Terraced House,4,4,2200,495,1090000
+248,2-storey Terraced House,4,2,2200,309,680000
+249,2-storey Terraced House,4,4,3100,166,515888
+250,2-storey Terraced House,4,4,2690,150,402388
+251,2-storey Terraced House,4,3,1400,493,690000
+252,2-storey Terraced House,3,3,1800,1028,1850000
+253,2-storey Terraced House,4,3,3000,367,1100000
+254,2-storey Terraced House,4,4,3200,153,489999
+255,2-storey Terraced House,3,2,1370,350,480000
+256,2-storey Terraced House,4,4,2788,165,458888
+257,2-storey Terraced House,4,4,2850,141,402888
+258,2-storey Terraced House,5,3,2250,800,1799998
+259,2-storey Terraced House,4,3,1440,403,580000
+260,2-storey Terraced House,4,4,3053,130,395388
+261,2-storey Terraced House,4,4,3100,161,499999
+262,2-storey Terraced House,5,4,2500,360,899000
+263,2-storey Terraced House,4,4,3300,153,503888
+264,2-storey Terraced House,4,4,2750,149,410888
+265,2-storey Terraced House,4,4,2800,179,499888
+266,2-storey Terraced House,4,4,2900,146,422100
+267,2-storey Terraced House,4,2,1600,500,800000
+268,2-storey Terraced House,3,2,1230,455,560000
+269,2-storey Terraced House,4,2,1400,557,780000
+270,2-storey Terraced House,4,4,2680,149,398888
+271,2-storey Terraced House,4,4,2900,145,420000
+272,2-storey Terraced House,4,4,3261,131,426718
+273,2-storey Terraced House,4,4,3036,131,398681
+274,2-storey Terraced House,4,4,2694,151,405800
+275,2-storey Terraced House,4,3,2000,825,1650000
+276,2-storey Terraced House,4,3,1800,361,650000
+277,2-storey Terraced House,4,3,2300,565,1300000
+278,2-storey Terraced House,4,4,2785,149,415000
+279,2-storey Terraced House,4,4,3200,161,515888
+280,2-storey Terraced House,4,4,2800,168,469888
+281,2-storey Terraced House,4,3,1300,370,480888
+282,2-storey Terraced House,5,3,2000,575,1150000
+283,2-storey Terraced House,5,4,3300,148,488000
+284,2-storey Terraced House,4,3,2200,432,950000
+285,2-storey Terraced House,4,4,3100,164,506888
+286,2-storey Terraced House,4,4,2880,162,467000
+287,2-storey Terraced House,4,4,2590,155,401388
+288,2-storey Terraced House,4,3,2000,425,850000
+289,2-storey Terraced House,4,3,1800,433,780000
+290,2-storey Terraced House,5,4,2029,838,1700000
+291,2-storey Terraced House,5,3,2500,740,1849998
+292,2-storey Terraced House,5,3,2200,435,958000
+293,2-storey Terraced House,4,4,2800,142,398888
+294,2-storey Terraced House,4,4,2800,150,418888
+295,2-storey Terraced House,4,4,3100,179,555888
+296,2-storey Terraced House,4,4,3200,165,528888
+297,2-storey Terraced House,4,4,2688,150,403750
+298,2-storey Terraced House,4,4,2000,458,915000
+299,2-storey Terraced House,4,4,2673,174,465000
+300,2-storey Terraced House,4,4,3383,125,424000
+301,2-storey Terraced House,4,3,1650,515,850000
+302,2-storey Terraced House,4,4,3016,132,396888
+303,2-storey Terraced House,4,3,1600,800,1280000
+304,2-storey Terraced House,4,3,2199,200,439888
+305,2-storey Terraced House,4,4,2770,152,420000
+306,2-storey Terraced House,4,4,3016,132,398678
+307,2-storey Terraced House,4,4,2200,345,760000
+308,2-storey Terraced House,4,4,2650,152,402368
+309,2-storey Terraced House,4,3,2790,150,418000
+310,2-storey Terraced House,4,3,2000,690,1380000
+311,2-storey Terraced House,4,4,2335,364,850000
+312,2-storey Terraced House,4,4,3000,196,588888
+313,2-storey Terraced House,4,3,1300,508,660000
+314,2-storey Terraced House,4,4,3100,145,450888
+315,2-storey Terraced House,4,4,2760,166,458888
+316,2-storey Terraced House,4,4,2780,190,528888
+317,2-storey Terraced House,4,4,3100,162,501888
+318,2-storey Terraced House,4,4,2570,158,406388
+319,2-storey Terraced House,4,3,2000,425,850000
+320,2-storey Terraced House,4,4,3018,133,399999
+321,2-storey Terraced House,4,3,1368,461,630000
+322,2-storey Terraced House,5,3,1760,540,950000
+323,2-storey Terraced House,4,3,2200,355,780000
+324,2-storey Terraced House,5,4,2800,421,1180000
+325,2-storey Terraced House,4,4,3100,161,500000
+326,2-storey Terraced House,4,4,2270,307,697000
+327,2-storey Terraced House,4,4,2890,173,498888
+328,2-storey Terraced House,5,4,2860,169,483000
+329,2-storey Terraced House,4,3,1674,388,650000
+330,2-storey Terraced House,3,2,1080,583,630000
+331,2-storey Terraced House,3,3,2500,720,1800000
+332,2-storey Terraced House,4,4,3019,131,396839
+333,2-storey Terraced House,4,4,3288,152,498888
+334,2-storey Terraced House,2,1,700,486,340000
+335,2-storey Terraced House,4,4,2680,151,403888
+336,2-storey Terraced House,5,3,2200,411,905000
+337,2-storey Terraced House,6,5,2800,464,1300000
+338,2-storey Terraced House,4,4,2800,168,470000
+339,2-storey Terraced House,4,4,2888,156,450000
+340,2-storey Terraced House,4,4,3182,129,408888
+341,2-storey Terraced House,4,4,2800,146,408888
+342,2-storey Terraced House,4,4,2650,181,480888
+343,2-storey Terraced House,4,4,1650,436,720000
+344,2-storey Terraced House,3,1,800,481,385000
+345,2-storey Terraced House,4,3,1876,468,878000
+346,2-storey Terraced House ,4,4,2685,200,537826
+347,2-storey Terraced House ,4,4,2229,278,620000
+348,2-storey Terraced House ,4,3,2566,172,440220
+349,2-storey Terraced House ,4,4,2890,156,450000
+350,2-storey Terraced House ,5,3,1500,613,920000
+351,2-storey Terraced House ,4,3,2319,162,375000
+352,2-storey Terraced House ,5,3,2400,638,1530000
+353,2-storey Terraced House ,3,2,1280,577,738888
+354,2-storey Terraced House ,4,3,1700,471,800000
+355,2-storey Terraced House ,4,4,3100,141,437000
+356,2-storey Terraced House ,5,4,1300,650,845000
+357,2-storey Terraced House ,4,4,2568,170,435888
+358,2-storey Terraced House ,4,4,2788,153,427000
+359,2-storey Terraced House ,4,3,2000,790,1580000
+360,2-storey Terraced House ,4,4,3100,138,428800
+361,2-storey Terraced House ,4,3,2800,403,1128800
+362,2-storey Terraced House ,4,4,2600,242,630000
+363,2-storey Terraced House ,4,3,2433,176,428000
+364,2-storey Terraced House ,4,4,3211,133,425800
+365,2-storey Terraced House ,6,3,2400,500,1200000
+366,2-storey Terraced House ,4,4,2220,197,438000
+367,2-storey Terraced House ,4,4,2589,166,428888
+368,2-storey Terraced House ,5,4,1760,540,950000
+369,2-storey Terraced House ,4,4,1980,278,550000
+370,2-storey Terraced House ,4,3,1800,311,560000
+371,2-storey Terraced House ,4,4,3200,143,458000
+372,2-storey Terraced House ,4,4,2650,151,400000
+373,2-storey Terraced House ,5,3,1650,376,620000
+374,2-storey Terraced House ,4,4,3618,304,1100000
+375,2-storey Terraced House ,4,3,2238,192,429000
+376,2-storey Terraced House ,4,4,2890,145,420300
+377,2-storey Terraced House ,4,3,1647,516,850000
+378,2-storey Terraced House ,4,4,3326,158,527000
+379,2-storey Terraced House ,4,4,2500,186,463850
+380,2-storey Terraced House ,4,4,2688,205,550888
+381,2-storey Terraced House ,4,4,2568,183,468888
+382,2-storey Terraced House ,5,5,3200,231,738000
+383,2-storey Terraced House ,4,4,2780,188,523888
+384,2-storey Terraced House ,4,4,2900,139,402000
+385,2-storey Terraced House ,5,3,1900,384,730000
+386,2-storey Terraced House ,4,4,2574,179,462000
+387,2-storey Terraced House ,4,4,3100,138,426800
+388,2-storey Terraced House ,4,4,2300,169,388000
+389,2-storey Terraced House ,4,3,1700,412,700000
+390,2-storey Terraced House ,4,3,2219,179,398000
+391,2-storey Terraced House ,4,4,3100,136,423000
+392,2-storey Terraced House ,4,3,2200,523,1150000
+393,2-storey Terraced House ,4,4,2999,143,428888
+394,2-storey Terraced House ,4,4,2486,189,468888
+395,2-storey Terraced House ,4,4,2215,384,850000
+396,2-storey Terraced House ,4,3,2456,185,455188
+397,2-storey Terraced House ,4,3,2400,175,420888
+398,2-storey Terraced House ,4,4,2590,184,476221
+399,2-storey Terraced House ,4,3,2280,193,440200
+400,2-storey Terraced House ,4,4,2215,384,850000
+401,2-storey Terraced House ,4,4,2300,372,855000
+402,2-storey Terraced House ,4,4,2259,385,870000
+403,2-storey Terraced House ,4,3,2800,150,420188
+404,2-storey Terraced House ,5,4,2300,230,530000
+405,2-storey Terraced House ,4,3,2567,171,440200
+406,2-storey Terraced House ,4,4,2800,146,408888
+407,2-storey Terraced House ,4,4,2230,198,440888
+408,2-storey Terraced House ,4,4,2888,135,389888
+409,2-storey Terraced House ,4,4,2988,130,388888
+410,2-storey Terraced House ,4,4,2100,619,1300000
+411,2-storey Terraced House ,4,4,2800,141,395000
+412,2-storey Terraced House ,3,2,960,406,390000
+413,2-storey Terraced House ,4,3,2029,183,371000
+414,2-storey Terraced House ,4,4,2335,364,850000
+415,2-storey Terraced House ,4,3,2688,173,463888
+416,2-storey Terraced House ,4,3,2300,326,750000
+417,2-storey Terraced House ,4,2,2422,174,422270
+418,2-storey Terraced House ,4,4,2820,149,420000
+419,2-storey Terraced House ,4,4,2545,191,487000
+420,2-storey Terraced House ,3,2,1500,387,580000
+421,2-storey Terraced House ,4,3,2229,248,553000
+422,2-storey Terraced House ,4,4,2600,154,400000
+423,2-storey Terraced House ,5,4,2000,475,950000
+424,3.5-storey Terraced House,5,5,4450,442,1968000
+425,3.5-storey Terraced House,5,5,4500,309,1390000
+426,3.5-storey Terraced House ,3,3,1765,827,1460000
+427,3-storey Terraced House,5,4,3500,366,1280000
+428,3-storey Terraced House,6,5,3427,306,1048000
+429,3-storey Terraced House,5,5,2512,370,930000
+430,3-storey Terraced House,3,3,1862,886,1650000
+431,3-storey Terraced House,5,4,3000,383,1150000
+432,3-storey Terraced House,6,6,3500,514,1799000
+433,3-storey Terraced House,5,5,3000,417,1250000
+434,3-storey Terraced House,5,4,2800,536,1500000
+435,3-storey Terraced House,6,3,3200,594,1900000
+436,3-storey Terraced House,6,5,3700,389,1440000
+437,3-storey Terraced House,5,5,3200,422,1350000
+438,3-storey Terraced House,5,5,2500,352,880000
+439,3-storey Terraced House,6,5,3600,436,1570000
+440,3-storey Terraced House,5,5,3502,485,1700000
+441,3-storey Terraced House,5,6,3253,584,1900000
+442,3-storey Terraced House,5,5,3200,619,1980000
+443,3-storey Terraced House,5,4,2395,428,1026000
+444,3-storey Terraced House,3,5,3440,509,1750000
+445,3-storey Terraced House,6,7,3200,547,1750000
+446,3-storey Terraced House,6,6,3367,446,1500000
+447,3-storey Terraced House,6,6,3430,306,1048000
+448,3-storey Terraced House,6,5,5000,290,1450000
+449,3-storey Terraced House,4,5,3000,496,1488000
+450,3-storey Terraced House,6,4,2800,536,1500000
+451,3-storey Terraced House,5,5,2500,355,888000
+452,3-storey Terraced House,6,6,3596,470,1690000
+453,3-storey Terraced House,4,4,2600,442,1150000
+454,3-storey Terraced House,5,4,3400,291,988800
+455,3-storey Terraced House,6,5,3426,306,1048000
+456,3-storey Terraced House,5,4,3200,406,1300000
+457,3-storey Terraced House,5,6,3050,590,1800000
+458,3-storey Terraced House,5,4,2900,324,940000
+459,3-storey Terraced House,6,5,3300,373,1230000
+460,3-storey Terraced House,5,4,2600,454,1180000
+461,3-storey Terraced House ,6,4,3280,396,1300000
+462,3-storey Terraced House ,5,4,3030,224,680000
+463,3-storey Terraced House ,6,6,3388,443,1500000
+464,3-storey Terraced House ,6,7,4168,345,1440000
+465,3-storey Terraced House ,4,3,2180,459,1000000
+466,3-storey Terraced House ,5,5,3300,303,1000000
+467,3-storey Terraced House ,4,4,1540,455,700000
+468,3-storey Terraced House ,6,5,3288,149,488992
+469,3-storey Terraced House ,5,5,3276,345,1130000
+470,3-storey Terraced House ,5,4,2600,596,1550000
+471,3-storey Terraced House ,6,5,2950,502,1480000
+472,3-storey Terraced House ,5,5,2600,385,1000000
+473,3-storey Terraced House ,6,6,3500,371,1300000
+474,3-storey Terraced House ,6,4,3200,328,1050000
+475,3-storey Terraced House ,5,5,3300,324,1068000
+476,3-storey Terraced House ,6,4,3000,433,1300000
+477,3-storey Terraced House ,6,6,3750,371,1390000
+478,3-storey Terraced House ,5,8,3750,263,988000
+479,3-storey Terraced House ,5,5,3900,487,1899000
+480,3-storey Terraced House ,5,5,3300,303,1000000
+481,3-storey Terraced House ,5,5,3276,326,1068000
+482,3-storey Terraced House ,5,5,3576,367,1312000
+483,3-storey Terraced House ,6,6,3471,487,1690000
+484,3-storey Terraced House ,5,4,4500,440,1980000
+485,Apartment,3,2,650,285,185000
+486,Apartment,3,2,1200,292,350000
+487,Apartment,3,2,808,582,470000
+488,Apartment,2,1,600,400,240000
+489,Apartment,3,2,900,367,330000
+490,Apartment,3,2,725,393,285000
+491,Apartment,3,2,802,234,188000
+492,Apartment,3,2,774,362,280000
+493,Apartment,3,2,848,387,328000
+494,Apartment,3,2,945,317,300000
+495,Apartment,3,2,758,224,170000
+496,Apartment,3,2,850,351,298000
+497,Apartment,3,2,1181,419,495000
+498,Apartment,3,2,947,216,205000
+499,Apartment,3,2,820,366,300000
+500,Apartment,3,2,802,234,188000
+501,Apartment,3,2,1109,360,399000
+502,Apartment,3,2,800,385,308000
+503,Apartment,2,1,608,457,278000
+504,Apartment,3,2,716,349,250000
+505,Apartment,3,2,800,250,200000
+506,Apartment,3,1,700,397,278000
+507,Apartment,3,2,1061,566,599999
+508,Apartment,3,1,715,336,240000
+509,Apartment,2,2,710,983,698000
+510,Apartment,4,2,1320,352,465000
+511,Apartment,3,2,838,394,330000
+512,Apartment,3,2,945,519,490000
+513,Apartment,3,2,1000,385,385000
+514,Apartment,2,2,650,569,370000
+515,Apartment,2,1,680,265,180000
+516,Apartment,2,2,990,505,500000
+517,Apartment,3,2,837,323,270000
+518,Apartment,3,2,850,339,288000
+519,Apartment,2,1,797,1230,980000
+520,Apartment,2,2,906,345,313000
+521,Apartment,2,1,560,300,168000
+522,Apartment,3,2,1324,302,400000
+523,Apartment,3,2,1050,419,440000
+524,Apartment,3,2,807,301,243000
+525,Apartment,3,2,1043,479,500000
+526,Apartment,2,1,789,614,484350
+527,Apartment,3,2,900,311,280000
+528,Apartment,4,2,1320,355,469000
+529,Apartment,3,2,818,428,350000
+530,Apartment,3,2,900,333,300000
+531,Apartment,3,2,802,234,188000
+532,Apartment,2,2,650,585,380000
+533,Apartment,1,1,450,1440,648000
+534,Apartment,3,3,1005,346,348000
+535,Apartment,3,2,1008,391,394000
+536,Apartment,3,2,948,327,310000
+537,Apartment,3,2,854,304,260000
+538,Apartment,3,2,1165,299,348000
+539,Apartment,1,1,500,760,380000
+540,Apartment,3,2,1009,347,350000
+541,Apartment,3,2,962,343,330000
+542,Apartment,2,2,1300,654,850000
+543,Apartment,3,1,721,340,245000
+544,Apartment,2,2,900,930,837000
+545,Apartment,3,2,900,311,280000
+546,Apartment,2,2,662,367,243000
+547,Apartment,4,2,1076,362,390000
+548,Apartment,3,2,1689,432,730000
+549,Apartment,3,2,862,377,325000
+550,Apartment,2,2,650,585,380000
+551,Apartment,3,2,845,272,230000
+552,Apartment,3,1,650,169,110000
+553,Apartment,2,1,880,1550,1364000
+554,Apartment,3,1,600,208,125000
+555,Apartment,3,2,650,246,160000
+556,Apartment,3,2,801,375,300000
+557,Apartment,3,2,861,290,250000
+558,Apartment,3,2,802,234,188000
+559,Apartment,3,2,780,346,270000
+560,Apartment,3,1,657,251,165000
+561,Apartment,4,2,1070,364,390000
+562,Apartment,3,2,1250,576,720000
+563,Apartment,3,2,800,344,275000
+564,Apartment,2,1,550,318,175000
+565,Apartment,3,1,648,316,205000
+566,Apartment,3,2,962,374,360000
+567,Apartment,3,1,650,382,248000
+568,Apartment,3,2,995,382,380000
+569,Apartment,3,2,829,314,260000
+570,Apartment,2,2,650,600,390000
+571,Apartment,3,2,928,280,260000
+572,Apartment,4,3,1500,833,1250000
+573,Apartment,3,2,1115,305,340000
+574,Apartment,3,2,900,256,230000
+575,Apartment,3,2,904,310,280000
+576,Apartment,3,2,820,470,385000
+577,Apartment,4,2,1200,338,405000
+578,Apartment,3,2,1000,420,420000
+579,Apartment,3,2,748,488,365000
+580,Apartment,3,2,930,190,177000
+581,Apartment,3,2,950,337,320000
+582,Apartment,2,2,650,600,390000
+583,Apartment,3,2,750,252,189000
+584,Apartment,3,2,730,479,350000
+585,Apartment ,4,2,1840,538,990000
+586,Apartment ,3,2,915,339,310000
+587,Apartment ,3,2,1100,300,330000
+588,Apartment ,3,2,965,321,310000
+589,Apartment ,3,1,650,305,198000
+590,Apartment ,2,1,600,383,230000
+591,Apartment ,2,2,1200,375,450000
+592,Apartment ,2,1,880,636,560000
+593,Apartment ,3,2,900,333,300000
+594,Apartment ,2,1,583,223,130000
+595,Apartment ,2,2,801,1416,1134000
+596,Apartment ,3,1,648,386,250000
+597,Apartment ,3,2,650,223,145000
+598,Apartment ,3,2,837,296,248000
+599,Apartment ,3,2,971,371,360000
+600,Apartment ,3,2,1182,504,595400
+601,Apartment ,3,2,1068,352,376000
+602,Apartment ,3,2,1012,471,477000
+603,Apartment ,3,2,1150,783,900000
+604,Apartment ,3,2,928,457,423800
+605,Apartment ,3,2,849,1193,1012490
+606,Apartment ,3,3,1140,368,420000
+607,Apartment ,2,2,651,1472,958000
+608,Apartment ,4,3,1000,480,480000
+609,Apartment ,3,3,1216,448,544700
+610,Apartment ,3,2,810,370,300000
+611,Apartment ,4,2,1096,591,648000
+612,Apartment ,3,2,909,273,248000
+613,Apartment ,3,2,814,369,300000
+614,Bungalow House,6,4,4006,399,1599000
+615,Bungalow House,4,4,3358,438,1470000
+616,Bungalow House,5,4,5999,333,2000000
+617,Bungalow House,5,5,4302,302,1300000
+618,Bungalow House,5,6,3159,617,1950000
+619,Bungalow House,7,5,3686,374,1380000
+620,Bungalow House ,5,5,2520,386,972000
+621,Condominium,3,2,1077,385,415000
+622,Condominium,4,4,1331,473,630000
+623,Condominium,3,2,1000,550,550000
+624,Condominium,2,2,489,520,254377
+625,Condominium,3,2,921,421,388000
+626,Condominium,1,1,500,516,258000
+627,Condominium,2,2,657,609,399999
+628,Condominium,2,2,810,494,400500
+629,Condominium,3,2,1012,515,520800
+630,Condominium,3,2,1270,417,530000
+631,Condominium,4,3,1650,344,568000
+632,Condominium,2,2,716,740,530000
+633,Condominium,2,1,656,622,408000
+634,Condominium,2,2,750,787,590000
+635,Condominium,3,2,1201,416,500000
+636,Condominium,3,2,900,476,428000
+637,Condominium,5,3,1864,751,1400000
+638,Condominium,3,2,1100,264,290000
+639,Condominium,2,1,780,353,275000
+640,Condominium,2,2,488,512,250000
+641,Condominium,3,2,1210,380,460000
+642,Condominium,5,4,1800,406,730000
+643,Condominium,1,1,450,867,389990
+644,Condominium,4,2,900,356,320000
+645,Condominium,4,3,1240,388,480888
+646,Condominium,4,3,1750,903,1580000
+647,Condominium,2,2,690,696,480000
+648,Condominium,4,2,2590,498,1290000
+649,Condominium,3,2,800,438,350000
+650,Condominium,3,2,903,321,290000
+651,Condominium,3,2,1417,311,440000
+652,Condominium,3,2,1206,564,680000
+653,Condominium,1,1,460,828,381000
+654,Condominium,3,2,950,545,518000
+655,Condominium,6,4,1805,396,715000
+656,Condominium,2,2,1075,358,385000
+657,Condominium,3,2,911,571,520000
+658,Condominium,3,2,900,500,450000
+659,Condominium,2,1,719,529,380000
+660,Condominium,3,2,1020,285,291000
+661,Condominium,1,1,1610,242,389000
+662,Condominium,3,2,808,433,350000
+663,Condominium,2,2,657,499,328000
+664,Condominium,4,3,1418,317,450000
+665,Condominium,1,1,696,1437,1000000
+666,Condominium,3,2,1002,434,435000
+667,Condominium,3,2,960,553,530800
+668,Condominium,3,2,1810,321,580800
+669,Condominium,3,2,1053,494,520000
+670,Condominium,4,3,1650,344,568000
+671,Condominium,2,2,722,596,430000
+672,Condominium,2,2,676,605,408888
+673,Condominium,3,2,868,457,397000
+674,Condominium,3,2,1100,500,550000
+675,Condominium,2,1,675,704,475000
+676,Condominium,1,1,1610,242,389000
+677,Condominium,4,3,1100,408,449000
+678,Condominium,2,2,650,615,399999
+679,Condominium,2,2,725,552,400000
+680,Condominium,2,2,670,403,270000
+681,Condominium,4,3,1650,344,568000
+682,Condominium,2,1,540,704,380000
+683,Condominium,2,2,800,400,320000
+684,Condominium,3,3,1690,740,1250000
+685,Condominium,3,2,1091,367,400000
+686,Condominium,4,2,1036,453,468888
+687,Condominium,3,2,965,581,560800
+688,Condominium,2,1,660,576,380000
+689,Condominium,3,2,850,421,358000
+690,Condominium,3,2,1390,619,860000
+691,Condominium,3,2,860,349,300000
+692,Condominium,3,2,1100,523,575000
+693,Condominium,2,2,1227,1222,1500000
+694,Condominium,3,2,1400,607,850000
+695,Condominium,1,1,500,504,252000
+696,Condominium,5,4,2080,808,1680000
+697,Condominium,3,4,1448,829,1200000
+698,Condominium,2,1,735,343,252000
+699,Condominium,3,2,980,511,500800
+700,Condominium,2,2,735,766,563000
+701,Condominium,3,2,951,597,568000
+702,Condominium,4,4,1600,375,600000
+703,Condominium,3,2,1000,550,550000
+704,Condominium,3,2,1550,574,890000
+705,Condominium,3,3,1598,454,725000
+706,Condominium,3,3,1900,816,1550000
+707,Condominium,3,2,1253,359,450000
+708,Condominium,5,4,1800,428,770000
+709,Condominium,3,2,921,421,388000
+710,Condominium,2,2,722,582,420000
+711,Condominium,2,2,648,614,398000
+712,Condominium,3,2,911,571,520000
+713,Condominium,3,2,850,541,460000
+714,Condominium,3,2,1125,878,988000
+715,Condominium,2,2,700,600,420000
+716,Condominium,3,2,1030,534,550000
+717,Condominium,3,2,1050,619,650000
+718,Condominium,3,2,1100,455,500000
+719,Condominium,4,4,1550,361,560000
+720,Condominium,3,2,1050,490,515000
+721,Condominium,1,1,500,500,250000
+722,Condominium,4,3,1371,516,708000
+723,Condominium,3,2,1050,333,350000
+724,Condominium,3,2,803,374,300000
+725,Condominium,3,2,800,375,299900
+726,Condominium,2,2,890,639,568888
+727,Condominium,3,2,1051,447,470000
+728,Condominium,3,2,1110,396,440000
+729,Condominium,2,2,1519,757,1150000
+730,Condominium,2,2,760,541,410888
+731,Condominium,1,1,450,860,387000
+732,Condominium,3,2,1036,283,293000
+733,Condominium,4,3,1018,383,390000
+734,Condominium,4,3,1088,597,650000
+735,Condominium,1,2,753,797,600000
+736,Condominium,2,2,1280,1016,1300000
+737,Condominium,3,2,1050,323,339000
+738,Condominium,4,3,1200,334,400390
+739,Condominium,2,2,722,540,390000
+740,Condominium,2,2,800,750,600000
+741,Condominium,3,2,1140,305,348000
+742,Condominium,3,2,1328,512,680000
+743,Condominium,3,2,1100,464,510000
+744,Condominium,2,2,650,551,358000
+745,Condominium,3,4,1977,733,1450000
+746,Condominium,2,2,708,860,608888
+747,Condominium,3,2,969,735,712000
+748,Condominium,5,4,2735,650,1778000
+749,Condominium,3,2,1217,475,578000
+750,Condominium,2,2,910,495,450800
+751,Condominium,3,2,921,456,420000
+752,Condominium,3,2,1358,317,430000
+753,Condominium,2,1,660,741,489000
+754,Condominium,3,2,1089,441,480000
+755,Condominium,4,3,1240,403,499900
+756,Condominium,3,2,941,388,365000
+757,Condominium,2,2,648,569,368888
+758,Condominium,2,2,1830,820,1500000
+759,Condominium,2,2,722,582,420000
+760,Condominium,4,3,1650,344,568000
+761,Condominium,2,2,1050,666,699800
+762,Condominium,3,2,819,450,368888
+763,Condominium,1,2,670,901,604000
+764,Condominium,2,2,660,545,360000
+765,Condominium,4,2,1303,292,380000
+766,Condominium,3,2,650,585,380000
+767,Condominium,1,1,653,609,398000
+768,Condominium,4,3,1650,344,568000
+769,Condominium,2,2,800,538,430000
+770,Condominium,3,2,1012,366,370000
+771,Condominium,2,2,1400,857,1200000
+772,Condominium,4,5,2411,659,1590000
+773,Condominium,3,2,1240,524,650000
+774,Condominium,3,3,1453,1000,1453000
+775,Condominium,2,2,795,502,398800
+776,Condominium,4,2,1036,451,466888
+777,Condominium,3,2,808,582,470000
+778,Condominium,3,3,1463,649,950000
+779,Condominium,3,2,808,580,469000
+780,Condominium,3,2,1560,673,1050000
+781,Condominium,2,2,1025,585,600000
+782,Condominium,2,2,653,565,368888
+783,Condominium,2,2,880,920,810000
+784,Condominium,3,2,1023,489,500000
+785,Condominium,3,3,1614,458,740000
+786,Condominium,3,2,1258,369,464000
+787,Condominium,3,3,1276,392,500000
+788,Condominium,3,2,1325,453,600000
+789,Condominium,3,2,1187,270,320000
+790,Condominium,2,3,1550,832,1290000
+791,Condominium,3,2,883,394,348000
+792,Condominium,2,2,798,514,410000
+793,Condominium,3,2,1008,497,500800
+794,Condominium,2,2,648,585,378888
+795,Condominium,4,3,1650,344,568000
+796,Condominium,4,4,1710,673,1150000
+797,Condominium,2,2,703,866,609000
+798,Condominium,3,3,1685,573,966000
+799,Condominium,1,1,450,864,389000
+800,Condominium,3,2,1050,381,400000
+801,Condominium,3,2,1020,373,380000
+802,Condominium,2,2,648,586,380000
+803,Condominium,2,2,914,1114,1018000
+804,Condominium,3,2,1050,381,400000
+805,Condominium,2,2,722,582,420000
+806,Condominium,3,2,1020,373,379999
+807,Condominium,2,1,665,541,360000
+808,Condominium,4,3,1650,344,568000
+809,Condominium,4,3,1650,344,568000
+810,Condominium,1,2,450,864,389000
+811,Condominium,3,2,1050,648,680000
+812,Condominium,2,2,680,926,630000
+813,Condominium,4,3,1650,344,568000
+814,Condominium,3,2,927,399,370000
+815,Condominium,3,2,1288,427,550000
+816,Condominium,2,2,722,582,420000
+817,Condominium,4,4,2569,771,1980000
+818,Condominium,4,3,1335,734,980000
+819,Condominium,2,2,650,585,380000
+820,Condominium,3,2,1050,600,630000
+821,Condominium,3,2,1050,619,650000
+822,Condominium,3,2,1400,306,428888
+823,Condominium,1,1,885,791,699998
+824,Condominium,4,3,1407,507,714000
+825,Condominium,1,1,653,609,398000
+826,Condominium,3,2,800,438,350000
+827,Condominium,2,3,1052,570,599998
+828,Condominium,3,2,1100,264,290000
+829,Condominium,4,3,1591,1257,2000000
+830,Condominium,1,2,670,901,604000
+831,Condominium,3,2,861,334,288000
+832,Condominium,3,3,1362,441,600000
+833,Condominium,2,2,657,592,388888
+834,Condominium,2,2,500,500,250000
+835,Condominium,3,2,1400,306,428888
+836,Condominium,2,2,872,917,800000
+837,Condominium,2,2,722,550,397000
+838,Condominium,4,3,1650,344,568000
+839,Condominium,3,2,921,430,395800
+840,Condominium,4,4,2021,792,1600000
+841,Condominium,1,1,818,1088,890000
+842,Condominium,3,2,688,683,470000
+843,Condominium,2,2,722,582,420000
+844,Condominium,1,1,625,1101,688000
+845,Condominium,3,2,1231,324,399000
+846,Condominium,3,2,982,509,500000
+847,Condominium,3,2,878,376,330000
+848,Condominium,3,2,1448,290,420000
+849,Condominium,3,3,2116,827,1750000
+850,Condominium,3,2,1050,376,395000
+851,Condominium,4,3,1135,559,635000
+852,Condominium,4,4,1483,459,680000
+853,Condominium,3,2,1100,264,290000
+854,Condominium,3,2,1350,593,800000
+855,Condominium,3,2,803,598,480000
+856,Condominium,3,2,722,593,428000
+857,Condominium,2,2,722,582,420000
+858,Condominium,6,4,3200,313,1000000
+859,Condominium,4,4,1717,379,650000
+860,Condominium,3,2,808,444,359000
+861,Condominium,2,2,750,533,399800
+862,Condominium,2,1,647,631,408000
+863,Condominium,3,2,650,198,129000
+864,Condominium,3,2,1400,306,428888
+865,Condominium,3,2,1216,502,610000
+866,Condominium,2,2,700,627,438888
+867,Condominium,4,3,1650,344,568000
+868,Condominium,4,2,1355,472,640000
+869,Condominium,3,2,1168,625,730000
+870,Condominium,3,2,1294,564,730000
+871,Condominium,3,2,1200,750,900000
+872,Condominium,3,3,1504,718,1080000
+873,Condominium,4,4,1646,1197,1970000
+874,Condominium,2,1,555,1187,659000
+875,Condominium,2,2,612,441,270000
+876,Condominium,4,2,1038,429,445800
+877,Condominium,2,2,502,518,259888
+878,Condominium,3,2,700,600,420000
+879,Condominium,2,2,820,500,410000
+880,Condominium,1,1,438,941,412000
+881,Condominium,4,4,2030,493,1000000
+882,Condominium,2,2,1100,818,900000
+883,Condominium,3,2,943,411,388000
+884,Condominium,2,2,722,582,420000
+885,Condominium,4,2,990,774,766000
+886,Condominium,2,2,972,566,550000
+887,Condominium,3,2,1050,552,580000
+888,Condominium,3,2,808,446,360000
+889,Condominium,4,3,1198,334,400390
+890,Condominium,4,2,1450,355,515000
+891,Condominium,6,4,1805,382,690000
+892,Condominium,3,2,1033,591,610000
+893,Condominium,4,3,1650,344,568000
+894,Condominium,4,2,1074,447,480000
+895,Condominium,3,4,2648,641,1698000
+896,Condominium,4,2,1272,299,380000
+897,Condominium,1,1,450,856,385000
+898,Condominium,3,2,880,773,680000
+899,Condominium,3,2,852,475,405000
+900,Condominium,2,2,503,504,253388
+901,Condominium,4,2,1039,451,468800
+902,Condominium,2,2,886,658,583000
+903,Condominium,3,2,1396,372,520000
+904,Condominium,3,2,714,399,285000
+905,Condominium,3,2,810,454,368000
+906,Condominium,3,2,890,747,665000
+907,Condominium,4,3,1650,344,568000
+908,Condominium,2,2,650,614,398900
+909,Condominium,3,2,1280,352,450000
+910,Condominium,2,2,722,582,420000
+911,Condominium,3,2,986,558,550000
+912,Condominium,3,2,1200,483,580000
+913,Condominium,4,3,1378,522,720000
+914,Condominium,2,2,1190,1050,1250000
+915,Condominium,3,2,1365,916,1250000
+916,Condominium,2,2,499,521,260000
+917,Condominium,2,2,501,539,270000
+918,Condominium,2,2,489,550,268999
+919,Condominium,2,2,650,598,388888
+920,Condominium,2,2,650,585,380000
+921,Condominium,3,2,800,375,299999
+922,Condominium,2,2,650,614,398989
+923,Condominium,3,2,655,563,369000
+924,Condominium,2,2,722,582,420000
+925,Condominium,2,2,650,662,430000
+926,Condominium,2,2,700,554,388000
+927,Condominium,3,2,1138,527,599999
+928,Condominium,2,2,668,521,348000
+929,Condominium,3,3,2125,753,1600000
+930,Condominium,2,2,506,521,263440
+931,Condominium,3,4,2700,530,1430000
+932,Condominium,4,3,1650,344,568000
+933,Condominium,3,2,803,374,300000
+934,Condominium,5,4,1808,415,750000
+935,Condominium,4,3,1650,344,568000
+936,Condominium,3,2,850,551,468000
+937,Condominium,3,2,1572,751,1180000
+938,Condominium,3,2,1049,323,339000
+939,Condominium,2,2,800,485,388000
+940,Condominium,2,2,722,582,420000
+941,Condominium,4,2,1450,324,470000
+942,Condominium,3,2,1100,427,470000
+943,Condominium,2,2,1120,589,660000
+944,Condominium,2,2,668,524,350000
+945,Condominium,2,2,500,500,250000
+946,Condominium,2,2,500,500,250000
+947,Condominium,2,2,600,333,200000
+948,Condominium,4,3,1550,496,769000
+949,Condominium,3,2,1200,348,418000
+950,Condominium,4,3,1240,363,450000
+951,Condominium,3,2,851,400,340000
+952,Condominium,3,2,921,421,388000
+953,Condominium,3,2,1690,419,708000
+954,Condominium,2,2,722,582,420000
+955,Condominium,4,2,1383,347,480000
+956,Condominium,2,2,990,566,560000
+957,Condominium,3,2,1003,1047,1050000
+958,Condominium,1,1,811,1060,860000
+959,Condominium,4,3,1650,344,568000
+960,Condominium,3,2,850,541,460000
+961,Condominium,2,2,911,450,410000
+962,Condominium,2,2,872,459,400000
+963,Condominium,4,2,1480,541,800000
+964,Condominium,1,1,500,516,258000
+965,Condominium,4,3,1650,344,568000
+966,Condominium,1,1,450,884,398000
+967,Condominium,2,2,488,547,266832
+968,Condominium,2,2,499,512,255441
+969,Condominium,2,2,722,582,420000
+970,Condominium,4,3,1650,344,568000
+971,Condominium,3,2,1126,373,420000
+972,Condominium,4,2,1036,430,445800
+973,Condominium,3,4,2295,828,1900000
+974,Condominium,3,2,971,400,388000
+975,Condominium,3,2,918,370,340000
+976,Condominium,2,2,1192,850,1013200
+977,Condominium,4,3,1650,344,568000
+978,Condominium,3,2,867,404,350000
+979,Condominium,3,2,1100,264,290000
+980,Condominium,3,2,907,521,473000
+981,Condominium,4,3,1650,344,568000
+982,Condominium,3,3,1873,694,1300000
+983,Condominium,3,2,1100,427,470000
+984,Condominium,4,3,1660,801,1330000
+985,Condominium,3,3,1883,743,1400000
+986,Condominium,3,3,1098,674,739680
+987,Condominium,4,3,1150,573,658888
+988,Condominium,5,5,2400,700,1680000
+989,Condominium,1,2,689,891,614000
+990,Condominium,3,2,1100,373,410000
+991,Condominium,3,2,1100,527,580000
+992,Condominium,3,2,1053,446,470000
+993,Condominium,2,2,666,601,399999
+994,Condominium,2,2,925,1090,1008000
+995,Condominium,3,2,940,606,570000
+996,Condominium,4,3,1335,637,850000
+997,Condominium,2,2,658,593,390000
+998,Condominium,3,2,966,373,360000
+999,Condominium,3,2,980,406,398000
+1000,Condominium,2,2,722,582,420000
+1001,Condominium,3,2,808,520,420000
+1002,Condominium,2,2,1022,1076,1100000
+1003,Condominium,4,3,1711,402,688000
+1004,Condominium,4,4,2081,519,1080000
+1005,Condominium,3,2,966,450,435000
+1006,Condominium,3,2,950,547,520000
+1007,Condominium,4,2,1036,453,468880
+1008,Condominium,3,2,1171,491,575000
+1009,Condominium,4,4,1885,663,1250000
+1010,Condominium,3,2,1100,264,290000
+1011,Condominium,4,3,1650,344,568000
+1012,Condominium,2,2,880,1136,1000000
+1013,Condominium,4,2,1160,500,580000
+1014,Condominium,3,2,1499,367,550000
+1015,Condominium,2,2,810,483,390888
+1016,Condominium,3,2,1485,330,490000
+1017,Condominium,4,3,1650,344,568000
+1018,Condominium,2,2,638,643,410000
+1019,Condominium,2,2,670,567,380000
+1020,Condominium,4,2,1313,356,468000
+1021,Condominium,4,3,1650,344,568000
+1022,Condominium,4,3,1288,505,650000
+1023,Condominium,3,2,877,376,330000
+1024,Condominium,2,1,678,617,418000
+1025,Condominium,3,2,1001,388,388000
+1026,Condominium,2,2,647,603,389999
+1027,Condominium,2,2,880,653,575000
+1028,Condominium,2,2,722,582,420000
+1029,Condominium,2,2,676,575,388888
+1030,Condominium,2,1,657,548,360000
+1031,Condominium,4,3,1650,344,568000
+1032,Condominium,4,3,1650,344,568000
+1033,Condominium,4,3,1650,344,568000
+1034,Condominium,3,2,920,429,395000
+1035,Condominium,3,2,1137,466,530000
+1036,Condominium,3,2,808,520,420000
+1037,Condominium,4,2,1039,451,468800
+1038,Condominium,2,2,657,589,387000
+1039,Condominium,4,2,1160,499,579000
+1040,Condominium,2,2,800,750,600000
+1041,Condominium,2,2,657,595,390800
+1042,Condominium,4,3,1650,344,568000
+1043,Condominium,4,4,1643,396,650000
+1044,Condominium,4,3,1650,344,568000
+1045,Condominium,2,2,720,583,420000
+1046,Condominium,2,1,600,663,398000
+1047,Condominium,3,3,1100,455,500000
+1048,Condominium,3,3,980,541,530000
+1049,Condominium,2,2,700,479,335000
+1050,Condominium,3,3,1205,427,515000
+1051,Condominium,3,2,800,438,350000
+1052,Condominium,3,2,1000,510,510000
+1053,Condominium,3,2,1250,436,545000
+1054,Condominium,3,2,1097,427,468000
+1055,Condominium,3,3,1650,788,1300000
+1056,Condominium,3,2,1152,430,495000
+1057,Condominium,2,2,509,524,266778
+1058,Condominium,4,3,1650,344,568000
+1059,Condominium,3,2,1394,395,550000
+1060,Condominium,4,3,1650,344,568000
+1061,Condominium,3,2,954,449,428000
+1062,Condominium,4,3,1050,457,480000
+1063,Condominium,2,2,722,582,420000
+1064,Condominium,3,2,1007,357,360000
+1065,Condominium,5,5,2513,553,1390000
+1066,Condominium,3,2,648,586,380000
+1067,Condominium,3,2,918,403,370000
+1068,Condominium,4,3,1470,482,708000
+1069,Condominium,3,3,1010,523,528000
+1070,Condominium,3,2,986,507,499888
+1071,Condominium,3,2,1120,882,988000
+1072,Condominium,2,2,502,522,262000
+1073,Condominium,2,2,722,582,420000
+1074,Condominium,2,2,500,576,288000
+1075,Condominium,3,2,1102,408,450000
+1076,Condominium,4,3,1650,344,568000
+1077,Condominium,3,2,1598,751,1200000
+1078,Condominium,3,2,1268,584,740000
+1079,Condominium,5,4,1476,393,580000
+1080,Condominium,1,1,653,582,380000
+1081,Condominium,3,2,989,354,350000
+1082,Condominium,2,2,658,591,388888
+1083,Condominium,2,2,722,582,420000
+1084,Condominium,1,1,653,609,398000
+1085,Condominium,3,2,808,637,515000
+1086,Condominium,3,2,1216,543,660000
+1087,Condominium,4,3,1650,344,568000
+1088,Condominium,4,3,1223,475,580900
+1089,Condominium,3,2,1003,547,548800
+1090,Condominium,3,2,1310,405,530800
+1091,Condominium,2,2,812,492,399800
+1092,Condominium,1,1,450,860,387000
+1093,Condominium,2,2,656,593,388888
+1094,Condominium,3,2,900,476,428000
+1095,Condominium,2,2,498,540,268766
+1096,Condominium,2,2,650,585,380000
+1097,Condominium,4,3,1650,344,568000
+1098,Condominium,3,2,920,435,400000
+1099,Condominium,3,2,1195,410,490000
+1100,Condominium,4,3,1650,344,568000
+1101,Condominium,4,3,2253,621,1400000
+1102,Condominium,3,3,1350,511,690000
+1103,Condominium,3,2,800,263,210000
+1104,Condominium,4,2,1080,444,480000
+1105,Condominium,4,3,1650,344,568000
+1106,Condominium,3,2,1232,511,630000
+1107,Condominium,3,2,850,494,420000
+1108,Condominium,3,2,1453,516,750000
+1109,Condominium,2,2,1012,640,648000
+1110,Condominium,2,2,676,560,378888
+1111,Condominium,2,2,1327,497,660000
+1112,Condominium,3,2,1100,461,507000
+1113,Condominium,3,2,1163,439,510000
+1114,Condominium,4,3,1650,344,568000
+1115,Condominium,3,4,1856,679,1260000
+1116,Condominium,4,2,1207,402,485000
+1117,Condominium,3,2,1523,591,900000
+1118,Condominium,1,1,450,858,386000
+1119,Condominium,3,2,1013,400,405000
+1120,Condominium,4,3,1650,344,568000
+1121,Condominium,3,2,1198,499,598000
+1122,Condominium,2,2,486,525,255344
+1123,Condominium,4,3,1447,529,765000
+1124,Condominium,2,1,829,445,368888
+1125,Condominium,3,2,1100,286,315000
+1126,Condominium,2,2,695,609,423225
+1127,Condominium,4,3,1650,344,568000
+1128,Condominium,3,2,980,551,540000
+1129,Condominium,3,2,1138,316,360000
+1130,Condominium,2,2,722,579,418000
+1131,Condominium,4,3,1991,552,1100000
+1132,Condominium,3,2,900,433,390000
+1133,Condominium,2,2,650,615,399999
+1134,Condominium,4,3,1427,477,680000
+1135,Condominium,4,3,1200,557,668000
+1136,Condominium,4,3,1267,371,470000
+1137,Condominium,3,2,1010,396,400000
+1138,Condominium,2,2,980,408,399999
+1139,Condominium,3,2,1000,430,429999
+1140,Condominium,1,1,500,500,250000
+1141,Condominium,3,3,1420,317,450000
+1142,Condominium,3,2,1400,306,428888
+1143,Condominium,4,2,1036,445,460800
+1144,Condominium,4,2,1038,450,466800
+1145,Condominium,2,2,647,615,398000
+1146,Condominium,3,2,808,433,350000
+1147,Condominium,3,2,1100,398,438000
+1148,Condominium,4,3,1650,344,568000
+1149,Condominium,4,2,1279,532,680000
+1150,Condominium,3,2,856,689,590000
+1151,Condominium,1,1,450,862,388000
+1152,Condominium,3,2,970,541,525000
+1153,Condominium,4,3,1180,499,588888
+1154,Condominium,4,3,1650,344,568000
+1155,Condominium,3,2,1600,675,1080000
+1156,Condominium,4,3,1650,344,568000
+1157,Condominium,2,1,775,323,250000
+1158,Condominium,3,2,1100,391,430000
+1159,Condominium,4,2,1036,445,460800
+1160,Condominium,2,2,722,582,420000
+1161,Condominium,3,2,1129,407,460000
+1162,Condominium,3,2,1150,478,550000
+1163,Condominium,2,2,760,554,420800
+1164,Condominium,2,2,676,590,398888
+1165,Condominium,2,1,660,739,488000
+1166,Condominium,4,3,1650,344,568000
+1167,Condominium,3,3,1378,724,998000
+1168,Condominium,2,2,650,554,360000
+1169,Condominium,1,1,653,609,398000
+1170,Condominium,2,2,722,582,420000
+1171,Condominium,3,2,1478,460,680000
+1172,Condominium,3,2,1100,264,290000
+1173,Condominium,5,4,2047,679,1390000
+1174,Condominium,4,3,1200,334,400390
+1175,Condominium,3,2,1100,571,628000
+1176,Condominium,3,4,1686,558,940000
+1177,Condominium,3,2,938,403,378000
+1178,Condominium,3,2,956,345,330000
+1179,Condominium,3,2,870,506,440000
+1180,Condominium,2,2,511,504,257778
+1181,Condominium,2,2,650,951,618000
+1182,Condominium,3,4,1565,927,1450000
+1183,Condominium,2,2,769,644,495000
+1184,Condominium,4,3,1650,344,568000
+1185,Condominium,6,5,3400,544,1850000
+1186,Condominium,4,3,1240,387,480000
+1187,Condominium,2,2,945,1029,972000
+1188,Condominium,3,2,900,398,358000
+1189,Condominium,3,2,898,488,438000
+1190,Condominium,1,1,750,667,500000
+1191,Condominium,3,2,900,277,249000
+1192,Condominium,3,2,1020,417,425000
+1193,Condominium,3,2,878,510,448000
+1194,Condominium,4,3,1650,344,568000
+1195,Condominium,5,4,1980,264,521800
+1196,Condominium,4,4,2190,457,1000000
+1197,Condominium,3,2,1007,537,540800
+1198,Condominium,4,2,1036,431,446800
+1199,Condominium,2,1,722,582,420000
+1200,Condominium,2,2,500,538,268888
+1201,Condominium,2,2,900,444,400000
+1202,Condominium,4,3,1365,733,1000000
+1203,Condominium,4,3,1551,774,1200000
+1204,Condominium,3,2,972,355,345000
+1205,Condominium,2,2,820,525,430800
+1206,Condominium,3,2,1130,381,430000
+1207,Condominium,1,1,653,609,398000
+1208,Condominium,3,2,878,510,448000
+1209,Condominium,3,2,1010,347,350000
+1210,Condominium,2,2,1007,482,485000
+1211,Condominium,2,2,638,610,388888
+1212,Condominium,2,2,659,592,390000
+1213,Condominium,3,2,884,382,338000
+1214,Condominium,3,2,954,333,318000
+1215,Condominium,3,4,2036,491,1000000
+1216,Condominium,3,2,900,410,369000
+1217,Condominium,4,2,1272,295,375000
+1218,Condominium,4,2,1313,327,430000
+1219,Condominium,3,2,1210,413,500000
+1220,Condominium,2,2,650,412,268000
+1221,Condominium,1,1,450,860,387000
+1222,Condominium,2,2,820,720,590000
+1223,Condominium,1,1,450,862,388000
+1224,Condominium,2,2,489,530,258999
+1225,Condominium,3,2,1362,382,520000
+1226,Condominium,3,2,1160,509,590000
+1227,Condominium,3,2,950,325,308850
+1228,Condominium,2,2,675,579,390900
+1229,Condominium,2,2,662,527,349000
+1230,Condominium,2,2,648,602,390000
+1231,Condominium,4,3,1650,344,568000
+1232,Condominium,4,2,1450,359,520000
+1233,Condominium,4,3,1500,399,598000
+1234,Condominium,4,3,1650,344,568000
+1235,Condominium,3,2,800,494,395000
+1236,Condominium,4,2,1200,396,475000
+1237,Condominium,4,2,1300,585,760000
+1238,Condominium,2,1,735,344,253000
+1239,Condominium,4,3,1650,344,568000
+1240,Condominium,4,2,1035,443,458888
+1241,Condominium,3,2,1012,513,518800
+1242,Condominium,5,6,2266,475,1076031
+1243,Condominium,4,3,1650,344,568000
+1244,Condominium,4,3,1650,344,568000
+1245,Condominium,3,2,1130,353,399000
+1246,Condominium,3,2,1166,341,398000
+1247,Condominium,2,1,722,582,420000
+1248,Condominium,2,2,780,705,550000
+1249,Condominium,4,4,1808,513,928000
+1250,Condominium,3,2,998,299,298000
+1251,Condominium,2,2,824,910,750000
+1252,Condominium,2,2,855,304,260000
+1253,Condominium,4,2,1190,505,600800
+1254,Condominium,3,2,788,316,249000
+1255,Condominium,3,2,700,443,310000
+1256,Condominium,3,2,1050,406,426000
+1257,Condominium,2,2,775,524,405999
+1258,Condominium,4,2,1088,784,852800
+1259,Condominium,2,2,659,590,388888
+1260,Condominium,1,1,450,858,386000
+1261,Condominium,3,1,1276,478,610000
+1262,Condominium,3,2,1100,264,290000
+1263,Condominium,3,2,1224,515,630000
+1264,Condominium,2,1,653,596,388888
+1265,Condominium,3,2,930,323,300000
+1266,Condominium,2,2,1100,627,690000
+1267,Condominium,2,2,676,592,399999
+1268,Condominium,6,4,1805,396,715000
+1269,Condominium,3,3,1371,511,700000
+1270,Condominium,2,2,1075,386,415000
+1271,Condominium,4,3,1650,344,568000
+1272,Condominium,4,6,2266,485,1100000
+1273,Condominium,4,4,2200,855,1880000
+1274,Condominium,1,1,850,706,600000
+1275,Condominium,2,2,1143,547,625000
+1276,Condominium,1,1,450,862,388000
+1277,Condominium,4,2,1036,421,435880
+1278,Condominium,3,2,1189,335,398800
+1279,Condominium,3,3,1625,492,800000
+1280,Condominium,2,2,880,688,605000
+1281,Condominium,4,3,1400,420,588000
+1282,Condominium,3,2,1442,402,580000
+1283,Condominium,3,2,1150,383,440000
+1284,Condominium,3,2,980,387,379000
+1285,Condominium,3,2,1202,790,950000
+1286,Condominium,3,2,1024,262,268000
+1287,Condominium,5,5,2400,292,699800
+1288,Condominium,4,3,1650,344,568000
+1289,Condominium,4,4,2240,884,1980000
+1290,Condominium,4,3,1701,488,830000
+1291,Condominium,4,5,2562,773,1980000
+1292,Condominium,2,2,872,1514,1320000
+1293,Condominium,3,2,988,537,530888
+1294,Condominium,4,3,1650,344,568000
+1295,Condominium,2,2,600,407,244000
+1296,Condominium,3,2,1100,382,420000
+1297,Condominium,2,2,661,753,498000
+1298,Condominium,3,2,1150,348,400000
+1299,Condominium,4,2,1036,451,466888
+1300,Condominium,3,2,911,571,520000
+1301,Condominium,2,2,687,566,388888
+1302,Condominium,2,2,725,1240,899000
+1303,Condominium,3,2,1050,381,400000
+1304,Condominium,4,3,1650,344,568000
+1305,Condominium,5,3,2150,256,550000
+1306,Condominium,3,2,1400,306,428888
+1307,Condominium,2,2,657,592,388888
+1308,Condominium,2,2,686,583,399999
+1309,Condominium,2,1,665,541,360000
+1310,Condominium,1,1,566,2191,1240000
+1311,Condominium,3,2,1267,204,258000
+1312,Condominium,4,3,1650,344,568000
+1313,Condominium,2,2,800,499,399000
+1314,Condominium,3,2,1200,733,880000
+1315,Condominium,2,2,509,524,266553
+1316,Condominium,2,2,516,498,256883
+1317,Condominium,3,2,650,415,270000
+1318,Condominium,2,2,1045,1435,1499998
+1319,Condominium,2,2,700,597,418000
+1320,Condominium,4,3,1650,344,568000
+1321,Condominium,4,3,1250,516,645000
+1322,Condominium,4,3,1650,344,568000
+1323,Condominium,3,2,1260,476,600000
+1324,Condominium,2,2,722,582,420000
+1325,Condominium,1,1,500,500,250000
+1326,Condominium,4,3,1485,387,575000
+1327,Condominium,4,3,1650,344,568000
+1328,Condominium,3,2,808,457,369000
+1329,Condominium,3,2,1287,284,365000
+1330,Condominium,4,2,1039,434,450800
+1331,Condominium,3,2,1192,549,655000
+1332,Condominium,2,2,668,521,348000
+1333,Condominium,4,4,2360,784,1850000
+1334,Condominium,5,5,2648,566,1500000
+1335,Condominium,3,4,2000,625,1250000
+1336,Condominium,3,2,770,545,420000
+1337,Condominium,2,3,1313,762,1000000
+1338,Condominium,2,2,810,507,410800
+1339,Condominium,4,3,1212,537,650800
+1340,Condominium,2,1,648,600,388888
+1341,Condominium,4,3,1200,563,675000
+1342,Condominium,2,2,650,662,429999
+1343,Condominium,2,2,1200,1067,1280000
+1344,Condominium,3,2,900,676,608000
+1345,Condominium,3,2,1081,462,499000
+1346,Condominium,1,1,450,860,387000
+1347,Condominium,3,2,980,387,379000
+1348,Condominium,2,2,703,925,650000
+1349,Condominium,2,2,1098,893,980000
+1350,Condominium,4,2,1035,424,438800
+1351,Condominium,3,2,911,571,520000
+1352,Condominium,2,2,675,578,390000
+1353,Condominium,4,2,1316,470,618000
+1354,Condominium,2,2,725,578,418888
+1355,Condominium,2,2,650,612,398000
+1356,Condominium,3,2,886,361,320000
+1357,Condominium,4,2,2061,340,700000
+1358,Condominium,3,2,850,482,410000
+1359,Condominium,3,2,1385,202,280000
+1360,Condominium,2,2,668,582,388888
+1361,Condominium,3,2,960,719,690000
+1362,Condominium,4,5,2400,317,760000
+1363,Condominium,5,5,3488,360,1255500
+1364,Condominium,3,2,930,355,330000
+1365,Condominium,3,2,808,433,350000
+1366,Condominium,3,2,1009,357,360000
+1367,Condominium,2,2,751,611,458800
+1368,Condominium,1,1,460,865,398000
+1369,Condominium,3,2,900,767,690000
+1370,Condominium,4,2,1035,443,458888
+1371,Condominium,2,2,611,602,368000
+1372,Condominium,3,2,808,446,360000
+1373,Condominium,4,3,1650,344,568000
+1374,Condominium,2,2,750,787,590000
+1375,Condominium,1,1,450,864,389000
+1376,Condominium,4,3,1948,950,1850000
+1377,Condominium,3,2,1057,331,350000
+1378,Condominium,3,2,959,469,450000
+1379,Condominium,3,2,850,551,468000
+1380,Condominium,4,4,1600,374,599000
+1381,Condominium,3,2,808,495,400000
+1382,Condominium,4,2,1195,402,480000
+1383,Condominium,3,3,2700,741,2000000
+1384,Condominium,4,3,1258,369,464000
+1385,Condominium,4,4,1710,632,1080000
+1386,Condominium,3,2,1390,619,860000
+1387,Condominium,3,2,1031,450,463950
+1388,Condominium,3,2,850,541,460000
+1389,Condominium,3,2,1200,500,600000
+1390,Condominium,1,1,600,403,242000
+1391,Condominium,4,3,1389,547,760000
+1392,Condominium,3,2,1119,518,580000
+1393,Condominium,1,1,653,582,380000
+1394,Condominium,4,3,1650,344,568000
+1395,Condominium,3,2,800,375,300000
+1396,Condominium,3,2,1655,369,610000
+1397,Condominium,2,2,550,505,278000
+1398,Condominium,2,2,1582,746,1180000
+1399,Condominium,4,3,1650,344,568000
+1400,Condominium,3,2,1050,381,400000
+1401,Condominium,1,2,600,840,504000
+1402,Condominium,2,2,926,950,880000
+1403,Condominium,3,2,908,540,490000
+1404,Condominium,4,3,1650,344,568000
+1405,Condominium,3,2,808,452,365000
+1406,Condominium,2,1,460,700,322000
+1407,Condominium,3,3,1183,778,920000
+1408,Condominium,2,2,800,524,418888
+1409,Condominium,1,1,660,561,370000
+1410,Condominium,2,2,689,813,560000
+1411,Condominium,2,2,722,582,420000
+1412,Condominium,3,2,1000,429,429000
+1413,Condominium,2,2,650,597,388000
+1414,Condominium,2,2,725,1280,928000
+1415,Condominium,3,2,1450,586,850000
+1416,Condominium,4,3,1650,344,568000
+1417,Condominium,3,2,1090,531,579000
+1418,Condominium,2,2,650,600,390000
+1419,Condominium,2,3,1322,756,1000000
+1420,Condominium,4,3,1650,344,568000
+1421,Condominium,4,3,1248,288,360000
+1422,Condominium,2,2,930,645,600000
+1423,Condominium,1,1,450,864,389000
+1424,Condominium,2,2,852,539,458888
+1425,Condominium,1,1,590,508,300000
+1426,Condominium,4,3,1200,433,520000
+1427,Condominium,3,3,1894,845,1600000
+1428,Condominium,4,2,1279,446,570000
+1429,Condominium,3,2,1141,368,420000
+1430,Condominium,3,2,1400,306,428888
+1431,Condominium,4,3,1650,344,568000
+1432,Condominium,4,3,1650,344,568000
+1433,Condominium,5,3,2034,605,1230000
+1434,Condominium,4,3,1650,344,568000
+1435,Condominium,4,3,1650,344,568000
+1436,Condominium,3,2,800,375,300000
+1437,Condominium,3,3,1600,781,1250000
+1438,Condominium ,3,3,1281,765,979999
+1439,Condominium ,2,2,900,767,690000
+1440,Condominium ,3,2,830,416,345000
+1441,Condominium ,4,3,1300,400,520000
+1442,Condominium ,4,3,1200,444,533000
+1443,Condominium ,4,3,1106,454,502000
+1444,Condominium ,3,3,1100,485,533000
+1445,Condominium ,3,3,945,598,565000
+1446,Condominium ,1,1,600,983,590000
+1447,Condominium ,2,2,900,633,570000
+1448,Condominium ,1,2,1215,609,740000
+1449,Condominium ,4,2,1290,325,418800
+1450,Condominium ,2,2,800,324,259000
+1451,Condominium ,2,2,600,497,298000
+1452,Condominium ,3,2,858,512,438888
+1453,Condominium ,3,2,518,517,268000
+1454,Condominium ,4,3,1664,331,550000
+1455,Condominium ,2,2,880,864,760000
+1456,Condominium ,2,2,880,773,680000
+1457,Condominium ,4,3,1197,416,498000
+1458,Condominium ,2,2,992,604,599000
+1459,Condominium ,2,2,935,715,668888
+1460,Condominium ,3,2,1010,517,522000
+1461,Condominium ,4,3,1450,469,680000
+1462,Condominium ,3,2,900,333,300000
+1463,Condominium ,3,2,1200,500,600000
+1464,Condominium ,4,3,1146,436,499500
+1465,Condominium ,4,3,1056,471,497000
+1466,Condominium ,4,3,1045,466,487000
+1467,Condominium ,3,2,800,516,413000
+1468,Condominium ,4,2,1290,325,418800
+1469,Condominium ,2,2,750,439,329000
+1470,Condominium ,4,2,2000,600,1200000
+1471,Condominium ,3,3,1200,446,535000
+1472,Condominium ,4,3,1073,465,499000
+1473,Condominium ,2,2,1766,781,1380000
+1474,Condominium ,3,3,1300,446,580000
+1475,Condominium ,4,3,1465,512,750000
+1476,Condominium ,3,2,1390,705,980000
+1477,Condominium ,3,2,1324,408,540000
+1478,Condominium ,3,2,750,367,275000
+1479,Condominium ,1,1,650,800,520000
+1480,Condominium ,3,2,950,547,520000
+1481,Condominium ,3,2,1017,295,299999
+1482,Condominium ,1,1,518,492,255000
+1483,Condominium ,2,2,900,278,250000
+1484,Condominium ,3,3,1588,351,558000
+1485,Condominium ,1,1,600,933,560000
+1486,Condominium ,4,3,1098,454,498000
+1487,Condominium ,4,2,1155,460,531000
+1488,Condominium ,3,2,1000,450,450000
+1489,Condominium ,3,2,1000,420,420000
+1490,Condominium ,4,2,1400,296,415000
+1491,Condominium ,3,3,1400,414,580000
+1492,Condominium ,3,2,1404,684,960000
+1493,Condominium ,3,3,1263,447,565000
+1494,Condominium ,1,1,650,800,520000
+1495,Condominium ,2,2,800,563,450000
+1496,Condominium ,3,2,950,274,260000
+1497,Condominium ,2,2,750,400,299999
+1498,Condominium ,4,3,1340,367,492000
+1499,Condominium ,4,3,1205,412,497000
+1500,Condominium ,3,2,1152,523,603000
+1501,Condominium ,3,3,1580,351,554000
+1502,Condominium ,3,2,1100,409,450000
+1503,Condominium ,2,2,890,673,599000
+1504,Condominium ,2,2,886,676,599000
+1505,Condominium ,3,2,920,400,368000
+1506,Condominium ,4,3,1208,415,501000
+1507,Condominium ,3,3,1400,399,558000
+1508,Condominium ,2,2,686,627,430000
+1509,Condominium ,1,1,600,833,500000
+1510,Condominium ,2,2,867,691,599000
+1511,Condominium ,3,2,870,747,650000
+1512,Condominium ,2,1,500,636,318000
+1513,Condominium ,3,3,1100,444,488000
+1514,Condominium ,3,3,1385,419,580000
+1515,Condominium ,3,3,1300,385,500000
+1516,Condominium ,4,3,1205,414,499000
+1517,Condominium ,2,2,850,774,658000
+1518,Condominium ,3,2,850,456,388000
+1519,Condominium ,3,2,850,494,420000
+1520,Condominium ,2,2,700,486,340000
+1521,Condominium ,3,3,1100,508,558888
+1522,Condominium ,3,3,1350,407,550000
+1523,Condominium ,3,3,1480,365,540000
+1524,Condominium ,4,3,1198,413,495000
+1525,Condominium ,2,2,900,722,650000
+1526,Condominium ,3,2,942,558,526000
+1527,Condominium ,3,3,1080,296,320000
+1528,Condominium ,3,3,1200,433,520000
+1529,Condominium ,3,2,950,316,300000
+1530,Condominium ,3,2,850,541,460000
+1531,Condominium ,3,3,1425,414,590000
+1532,Condominium ,2,2,950,683,648888
+1533,Condominium ,3,2,1467,545,800000
+1534,Condominium ,4,3,1300,508,660000
+1535,Condominium ,2,2,820,512,420000
+1536,Condominium ,3,2,810,370,300000
+1537,Condominium ,3,2,810,679,550000
+1538,Condominium ,3,2,1047,764,800000
+1539,Condominium ,3,2,1200,365,438000
+1540,Condominium ,3,2,950,611,580000
+1541,Condominium ,3,3,1500,373,560000
+1542,Condominium ,4,3,1094,456,499000
+1543,Condominium ,2,2,922,627,578000
+1544,Condominium ,2,2,900,742,668000
+1545,Condominium ,3,2,962,312,300000
+1546,Condominium ,3,3,1280,392,502000
+1547,Condominium ,3,2,820,360,295000
+1548,Condominium ,4,2,1290,310,400000
+1549,Condominium ,1,1,650,800,520000
+1550,Condominium ,2,2,900,778,700000
+1551,Condominium ,2,2,750,440,330000
+1552,Condominium ,3,2,900,556,500000
+1553,Condominium ,3,2,1137,325,370000
+1554,Condominium ,3,2,1001,599,600000
+1555,Condominium ,4,3,1300,475,618000
+1556,Condominium ,2,2,735,571,420000
+1557,Condominium ,4,2,1290,310,400000
+1558,Condominium ,4,3,1500,553,830000
+1559,Condominium ,4,3,1673,269,450000
+1560,Condominium ,3,2,808,569,460000
+1561,Condominium ,5,3,1895,686,1300000
+1562,Condominium ,3,3,1020,449,458000
+1563,Condominium ,3,3,1300,423,550000
+1564,Condominium ,3,2,870,747,650000
+1565,Condominium ,4,3,1076,457,492000
+1566,Condominium ,3,3,1100,485,533000
+1567,Condominium ,2,2,1248,921,1150000
+1568,Condominium ,3,3,1296,408,529000
+1569,Condominium ,2,2,950,694,658888
+1570,Condominium ,3,2,937,672,630000
+1571,Condominium ,2,2,850,894,760000
+1572,Condominium ,2,2,788,519,408800
+1573,Condominium ,4,3,1426,504,718000
+1574,Condominium ,1,1,550,1516,833800
+1575,Condominium ,2,2,743,550,409000
+1576,Condominium ,3,3,1400,434,608000
+1577,Condominium ,3,2,1167,240,280000
+1578,Condominium ,3,2,850,541,460000
+1579,Condominium ,3,3,1200,375,450000
+1580,Condominium ,3,3,1100,535,588000
+1581,Condominium ,4,3,1050,466,489000
+1582,Condominium ,1,1,500,540,270000
+1583,Condominium ,3,2,800,375,300000
+1584,Condominium ,4,3,2000,650,1300000
+1585,Condominium ,4,3,1883,770,1450000
+1586,Condominium ,3,2,1000,300,300000
+1587,Condominium ,4,3,1082,460,498000
+1588,Condominium ,4,3,1268,519,658000
+1589,Condominium ,1,1,710,1190,845000
+1590,Condominium ,3,2,1130,336,380000
+1591,Condominium ,3,2,948,794,753000
+1592,Condominium ,3,2,1250,680,850000
+1593,Condominium ,2,2,950,694,658888
+1594,Condominium ,3,3,1100,485,533000
+1595,Condominium ,3,2,988,516,510000
+1596,Condominium ,1,1,498,542,270000
+1597,Condominium ,4,3,1090,448,488000
+1598,Condominium ,2,2,885,701,620780
+1599,Condominium ,2,2,885,701,620580
+1600,Condominium ,3,2,900,467,420000
+1601,Condominium ,3,2,828,753,623333
+1602,Condominium ,3,2,950,684,650000
+1603,Condominium ,3,2,900,556,500000
+1604,Condominium ,3,2,1109,442,490000
+1605,Condominium ,3,3,988,486,480000
+1606,Condominium ,2,2,996,753,750000
+1607,Condominium ,3,2,1328,377,500000
+1608,Condominium ,2,2,856,700,599000
+1609,Condominium ,4,3,1300,394,511888
+1610,Condominium ,3,2,900,500,450000
+1611,Condominium ,2,2,915,880,805000
+1612,Condominium ,2,1,510,765,390000
+1613,Condominium ,4,4,2100,520,1093000
+1614,Condominium ,3,3,1200,432,518000
+1615,Condominium ,3,2,1100,535,589000
+1616,Condominium ,3,2,1020,468,476888
+1617,Condominium ,5,4,1930,699,1350000
+1618,Condominium ,2,2,900,653,588000
+1619,Condominium ,3,2,978,552,540000
+1620,Condominium ,4,3,1450,473,685800
+1621,Condominium ,2,2,850,509,433000
+1622,Condominium ,4,3,1412,485,685200
+1623,Condominium ,3,2,1450,687,996000
+1624,Condominium ,2,1,721,1734,1250000
+1625,Condominium ,4,3,1416,479,677899
+1626,Condominium ,4,3,1420,485,689000
+1627,Condominium ,2,2,1159,1510,1750000
+1628,Condominium ,3,2,1100,512,563000
+1629,Condominium ,2,2,680,882,600000
+1630,Condominium ,4,3,1555,449,698000
+1631,Condominium ,4,3,1412,481,679500
+1632,Condominium ,4,3,1416,484,686000
+1633,Condominium ,4,3,1420,485,688000
+1634,Condominium ,3,3,1250,639,799000
+1635,Condominium ,4,2,1219,582,710000
+1636,Condominium ,4,3,1455,474,689200
+1637,Condominium ,4,3,1548,840,1300000
+1638,Condominium ,2,2,850,458,389000
+1639,Condominium ,4,3,1361,503,685000
+1640,Condominium ,3,2,1080,369,398000
+1641,Condominium ,3,3,1004,518,520000
+1642,Condominium ,3,2,700,657,460000
+1643,Condominium ,4,3,1570,462,725000
+1644,Condominium ,3,2,1018,457,465000
+1645,Condominium ,4,2,1290,310,400000
+1646,Condominium ,3,2,850,529,450000
+1647,Condominium ,3,4,1690,663,1120000
+1648,Condominium ,3,2,1160,606,703000
+1649,Condominium ,3,3,1023,518,530000
+1650,Condominium ,3,2,800,375,300000
+1651,Condominium ,2,2,800,536,429000
+1652,Condominium ,3,3,1405,413,580000
+1653,Condominium ,4,4,1884,743,1399000
+1654,Condominium ,4,3,1410,482,679900
+1655,Condominium ,4,3,1074,464,498000
+1656,Condominium ,3,3,1100,500,550000
+1657,Condominium ,5,4,1806,408,736000
+1658,Condominium ,5,4,1802,406,732000
+1659,Condominium ,3,2,1128,749,845000
+1660,Condominium ,4,3,1433,490,702000
+1661,Condominium ,3,2,1010,364,368000
+1662,Condominium ,5,4,1800,481,865000
+1663,Condominium ,5,5,2555,254,649620
+1664,Condominium ,3,2,1200,492,590000
+1665,Condominium ,2,2,880,681,599000
+1666,Condominium ,5,4,1799,401,722000
+1667,Condominium ,5,4,1807,403,729000
+1668,Condominium ,3,3,1253,405,508000
+1669,Condominium ,2,2,800,525,420000
+1670,Condominium ,1,2,690,855,590000
+1671,Condominium ,3,2,910,459,418000
+1672,Condominium ,3,3,1465,410,600000
+1673,Condominium ,2,2,910,769,700000
+1674,Condominium ,3,2,859,425,365000
+1675,Condominium ,3,2,810,370,300000
+1676,Condominium ,2,2,998,1002,1000000
+1677,Condominium ,2,2,689,697,480000
+1678,Condominium ,4,3,1056,469,495000
+1679,Condominium ,4,3,1046,480,502000
+1680,Condominium ,3,2,800,516,413000
+1681,Condominium ,2,1,650,566,368000
+1682,Condominium ,4,4,2098,524,1100000
+1683,Condominium ,3,2,1000,400,400000
+1684,Condominium ,2,2,876,985,863000
+1685,Condominium ,2,2,880,919,809000
+1686,Condominium ,2,2,876,982,860000
+1687,Condominium ,4,3,1380,717,989000
+1688,Condominium ,3,3,1320,454,599000
+1689,Condominium ,3,3,980,508,498000
+1690,Condominium ,3,2,1052,559,588000
+1691,Condominium ,3,3,1350,413,558000
+1692,Condominium ,4,3,1245,520,648000
+1693,Condominium ,4,3,1345,604,812000
+1694,Condominium ,4,3,1380,455,628000
+1695,Condominium ,4,3,1016,490,498000
+1696,Condominium ,3,3,1280,436,558000
+1697,Condominium ,4,3,1388,496,689000
+1698,Condominium ,4,3,1090,470,512000
+1699,Condominium ,4,3,1230,476,585000
+1700,Condominium ,4,3,1450,541,784000
+1701,Condominium ,3,3,1250,303,378500
+1702,Condominium ,2,2,1088,935,1016800
+1703,Condominium ,2,2,1091,917,1000000
+1704,Condominium ,2,2,1204,498,600000
+1705,Condominium ,2,2,1500,599,899000
+1706,Condominium ,2,2,1000,799,799000
+1707,Condominium ,2,2,1000,599,599000
+1708,Condominium ,2,2,1000,599,599000
+1709,Condominium ,3,2,1423,295,420000
+1710,Condominium ,2,2,900,633,570000
+1711,Condominium ,3,2,940,670,630000
+1712,Condominium ,2,2,1088,752,818000
+1713,Condominium ,2,2,1016,795,808000
+1714,Condominium ,3,2,1090,514,560000
+1715,Condominium ,2,2,725,593,430000
+1716,Condominium ,4,3,1200,407,488000
+1717,Condominium ,4,3,1765,619,1092000
+1718,Condominium ,3,2,1000,530,530000
+1719,Condominium ,2,2,885,701,620580
+1720,Condominium ,3,2,820,366,300000
+1721,Condominium ,3,2,1000,451,451000
+1722,Condominium ,3,3,1080,471,508888
+1723,Condominium ,2,2,920,761,700000
+1724,Condominium ,2,2,805,703,566000
+1725,Condominium ,3,2,1045,402,420000
+1726,Condominium ,3,2,1100,318,350000
+1727,Condominium ,3,2,1176,425,500000
+1728,Condominium ,3,2,1050,519,545000
+1729,Condominium ,2,2,500,500,250000
+1730,Condominium ,2,2,600,458,275000
+1731,Condominium ,3,2,900,333,300000
+1732,Condominium ,3,2,800,516,413000
+1733,Condominium ,3,2,823,554,456000
+1734,Condominium ,3,2,815,552,450000
+1735,Condominium ,3,3,1219,395,482000
+1736,Condominium ,1,1,1000,300,300000
+1737,Condominium ,2,2,1049,677,709999
+1738,Condominium ,3,2,1050,538,565000
+1739,Condominium ,3,2,1000,579,579000
+1740,Condominium ,3,2,850,565,480000
+1741,Condominium ,3,2,850,565,480000
+1742,Condominium ,3,2,850,565,480000
+1743,Condominium ,3,2,1151,591,680000
+1744,Condominium ,3,3,1500,347,520000
+1745,Condominium ,2,2,650,538,350000
+1746,Condominium ,3,2,800,375,300000
+1747,Condominium ,3,2,1118,438,490000
+1748,Condominium ,3,2,823,547,450000
+1749,Condominium ,3,2,1044,540,563354
+1750,Condominium ,3,3,1100,393,432000
+1751,Condominium ,2,1,656,576,378000
+1752,Condominium ,2,2,500,500,250000
+1753,Condominium ,3,2,808,495,400000
+1754,Condominium ,5,5,2336,286,669000
+1755,Condominium ,3,2,958,487,466300
+1756,Condominium ,2,2,815,1816,1480000
+1757,Condominium ,3,2,808,569,460000
+1758,Condominium ,2,2,661,787,520000
+1759,Condominium ,2,2,900,633,570000
+1760,Condominium ,2,2,840,501,421020
+1761,Condominium ,3,2,800,375,300000
+1762,Condominium ,2,2,650,569,370000
+1763,Condominium ,3,2,830,361,300000
+1764,Condominium ,3,2,810,370,300000
+1765,Condominium ,3,2,850,412,350000
+1766,Condominium ,2,1,570,667,380000
+1767,Condominium ,3,2,800,375,300000
+1768,Condominium ,4,3,1050,463,486000
+1769,Condominium ,3,2,1001,521,522000
+1770,Condominium ,3,3,1100,463,508888
+1771,Condominium ,3,2,1000,450,450000
+1772,Condominium ,4,2,1100,409,450000
+1773,Condominium ,3,2,850,529,450000
+1774,Condominium ,5,3,1215,560,680000
+1775,Condominium ,3,2,850,541,460000
+1776,Condominium ,2,1,710,1690,1200000
+1777,Condominium ,3,2,850,456,388000
+1778,Condominium ,3,3,1298,462,600000
+1779,Condominium ,3,3,1300,431,560000
+1780,Condominium ,4,3,1052,478,503000
+1781,Condominium ,4,2,1200,350,420000
+1782,Condominium ,3,2,930,333,310000
+1783,Condominium ,3,3,1000,533,533000
+1784,Condominium ,3,3,1280,495,633000
+1785,Condominium ,3,2,1000,460,460000
+1786,Condominium ,4,3,1216,501,609000
+1787,Condominium ,3,2,950,547,520000
+1788,Condominium ,3,3,1008,484,488000
+1789,Condominium ,2,2,500,500,250000
+1790,Condominium ,4,3,1200,442,530000
+1791,Condominium ,3,2,800,375,300000
+1792,Condominium ,1,1,600,983,590000
+1793,Condominium ,2,2,926,950,880000
+1794,Condominium ,3,3,1100,394,433000
+1795,Condominium ,3,2,1019,667,680000
+1796,Condominium ,3,2,810,667,540000
+1797,Condominium ,4,4,2065,726,1500000
+1798,Condominium ,2,2,500,500,250000
+1799,Condominium ,3,2,850,548,466000
+1800,Condominium ,3,2,800,519,415000
+1801,Condominium ,4,3,1250,401,501000
+1802,Condominium ,3,3,1130,476,538000
+1803,Condominium ,1,1,600,967,580000
+1804,Condominium ,2,2,880,739,650000
+1805,Condominium ,3,2,1313,419,550000
+1806,Condominium ,3,2,832,768,638888
+1807,Condominium ,3,3,1253,401,503000
+1808,Condominium ,2,2,900,767,690000
+1809,Condominium ,2,2,1000,629,629000
+1810,Condominium ,4,3,1200,708,850000
+1811,Condominium ,1,1,736,788,580000
+1812,Condominium ,3,3,1300,408,530000
+1813,Condominium ,3,2,800,375,300000
+1814,Condominium ,4,3,1050,463,486000
+1815,Condominium ,4,3,1050,462,485000
+1816,Condominium ,3,3,1100,508,558888
+1817,Condominium ,3,2,1175,439,516000
+1818,Condominium ,3,2,960,364,349900
+1819,Condominium ,3,2,800,700,560000
+1820,Condominium ,3,2,850,456,388000
+1821,Condominium ,3,2,1176,439,516000
+1822,Duplex,3,2,1000,408,408000
+1823,Duplex,3,2,801,375,300000
+1824,Duplex,3,2,980,427,418800
+1825,Duplex,2,2,1028,1135,1166880
+1826,Duplex,3,2,1001,433,433222
+1827,Duplex,3,2,1000,404,404000
+1828,Duplex,3,2,1204,831,1000000
+1829,Duplex,3,2,1001,430,430001
+1830,Duplex,1,2,775,710,550000
+1831,Duplex,1,1,762,733,558888
+1832,Duplex,6,6,3746,342,1280000
+1833,Duplex,3,2,1010,392,396000
+1834,Duplex ,3,2,1040,385,400000
+1835,Duplex ,2,1,861,1446,1244800
+1836,Duplex ,3,2,1018,394,401000
+1837,Duplex ,1,1,711,640,455000
+1838,Flat,2,1,550,455,250000
+1839,Flat,3,1,721,236,170000
+1840,Flat,2,1,550,391,215000
+1841,Flat,2,1,600,350,210000
+1842,Flat,4,2,1500,600,900000
+1843,Flat,2,1,550,409,225000
+1844,Flat,3,2,650,215,140000
+1845,Flat,3,2,712,295,210000
+1846,Flat,3,2,624,401,250000
+1847,Flat,3,2,825,376,310000
+1848,Flat,2,1,530,472,250000
+1849,Flat,2,1,550,364,200000
+1850,Flat,3,2,930,355,330000
+1851,Flat,3,2,904,298,269000
+1852,Flat,3,2,624,321,200000
+1853,Flat,3,2,650,308,200000
+1854,Flat,3,2,904,354,320000
+1855,Flat,3,2,700,269,188000
+1856,Flat ,3,2,650,297,193000
+1857,Flat ,2,1,550,269,148000
+1858,Flat ,3,2,1382,170,235000
+1859,Flat ,3,2,912,263,240000
+1860,Flat ,2,1,533,328,175000
+1861,Semi-Detached House,5,5,4500,411,1850000
+1862,Semi-Detached House,6,5,3688,328,1208888
+1863,Semi-Detached House,5,6,4000,300,1200000
+1864,Semi-Detached House,6,7,3847,325,1250000
+1865,Semi-Detached House,6,5,3370,579,1950000
+1866,Semi-Detached House,6,5,4500,400,1800000
+1867,Semi-Detached House,5,5,4260,448,1909000
+1868,Semi-Detached House,5,6,4000,300,1200000
+1869,Semi-Detached House,5,4,3150,502,1580000
+1870,Semi-Detached House,5,4,3000,500,1500000
+1871,Semi-Detached House,5,5,4460,437,1950000
+1872,Semi-Detached House,5,3,3589,499,1790000
+1873,Semi-Detached House,6,7,4600,413,1900000
+1874,Semi-Detached House,5,5,3200,541,1730000
+1875,Semi-Detached House,5,5,3800,421,1600000
+1876,Semi-Detached House,5,5,3000,597,1790000
+1877,Semi-Detached House,7,7,4400,409,1800000
+1878,Semi-Detached House,7,7,4400,409,1800000
+1879,Semi-Detached House,5,6,3600,306,1100000
+1880,Semi-Detached House,5,6,3600,306,1100000
+1881,Semi-Detached House,7,7,4400,409,1800000
+1882,Semi-Detached House,8,6,5000,360,1800000
+1883,Semi-Detached House,5,6,4000,300,1200000
+1884,Semi-Detached House,3,2,954,512,488000
+1885,Semi-Detached House,5,6,4000,300,1200000
+1886,Semi-Detached House,5,6,4000,300,1200000
+1887,Semi-Detached House,4,3,3600,389,1400000
+1888,Semi-Detached House,5,6,3600,306,1100000
+1889,Semi-Detached House,4,3,3000,483,1450000
+1890,Semi-Detached House,5,6,3600,306,1100000
+1891,Semi-Detached House,6,6,4290,466,2000000
+1892,Semi-Detached House,5,4,3000,400,1200000
+1893,Semi-Detached House ,4,4,4120,169,697888
+1894,Semi-Detached House ,5,5,4500,396,1780000
+1895,Semi-Detached House ,5,5,4500,396,1780000
+1896,Semi-Detached House ,5,5,2730,579,1580000
+1897,Semi-Detached House ,5,4,3230,216,698313
+1898,Semi-Detached House ,6,7,3500,160,558900
+1899,Semi-Detached House ,4,3,3500,569,1990000
+1900,Semi-Detached House ,5,5,3600,430,1548000
+1901,Semi-Detached House ,5,5,2800,211,589988
+1902,Semi-Detached House ,5,5,4500,396,1780000
+1903,Semi-Detached House ,4,5,2870,453,1300000
+1904,Semi-Detached House ,4,3,3570,146,520188
+1905,Semi-Detached House ,5,4,3570,143,510188
+1906,Semi-Detached House ,5,5,2800,429,1200000
+1907,Semi-Detached House ,5,5,2900,444,1288000
+1908,Semi-Detached House ,4,3,2200,900,1980000
+1909,Service Residence,1,1,655,1099,720000
+1910,Service Residence,3,2,950,368,350000
+1911,Service Residence,2,2,1160,1724,2000000
+1912,Service Residence,2,1,611,570,348000
+1913,Service Residence,3,2,1227,676,830000
+1914,Service Residence,2,2,942,764,720000
+1915,Service Residence,3,2,1050,438,460000
+1916,Service Residence,1,1,450,756,340000
+1917,Service Residence,1,1,667,1274,850000
+1918,Service Residence,4,2,1410,447,630000
+1919,Service Residence,3,2,925,408,377000
+1920,Service Residence,3,2,1300,454,590000
+1921,Service Residence,3,2,858,650,558000
+1922,Service Residence,2,2,497,946,470000
+1923,Service Residence,2,2,680,953,647800
+1924,Service Residence,1,1,526,665,350000
+1925,Service Residence,1,1,550,1107,608800
+1926,Service Residence,4,3,1037,433,448888
+1927,Service Residence,4,3,1259,572,720000
+1928,Service Residence,1,1,638,901,575000
+1929,Service Residence,4,2,1036,453,468800
+1930,Service Residence,2,2,1148,989,1135000
+1931,Service Residence,1,1,500,400,200000
+1932,Service Residence,2,2,650,568,369000
+1933,Service Residence,4,2,1035,425,439900
+1934,Service Residence,3,2,1259,953,1200000
+1935,Service Residence,3,2,868,575,499000
+1936,Service Residence,3,2,993,992,985000
+1937,Service Residence,1,1,450,756,340000
+1938,Service Residence,1,1,550,1018,560000
+1939,Service Residence,2,2,750,787,590000
+1940,Service Residence,3,2,1072,466,500000
+1941,Service Residence,3,2,1080,583,630000
+1942,Service Residence,2,2,1055,1325,1398000
+1943,Service Residence,2,1,565,681,385000
+1944,Service Residence,2,2,980,663,650000
+1945,Service Residence,2,2,1076,1239,1333250
+1946,Service Residence,2,2,1080,1463,1580000
+1947,Service Residence,4,2,1034,436,450800
+1948,Service Residence,2,2,924,752,695000
+1949,Service Residence,4,2,1038,471,488888
+1950,Service Residence,2,2,850,788,670000
+1951,Service Residence,4,2,1033,464,478888
+1952,Service Residence,3,2,822,730,600000
+1953,Service Residence,2,2,785,936,735000
+1954,Service Residence,4,3,1100,408,449000
+1955,Service Residence,4,2,1038,471,488888
+1956,Service Residence,4,2,1037,430,445800
+1957,Service Residence,2,2,850,788,670000
+1958,Service Residence,2,2,1006,815,820000
+1959,Service Residence,2,2,819,425,348000
+1960,Service Residence,2,2,886,1129,1000000
+1961,Service Residence,2,1,660,879,580000
+1962,Service Residence,4,2,1000,450,450000
+1963,Service Residence,1,1,610,570,348000
+1964,Service Residence,3,2,1140,307,350000
+1965,Service Residence,4,3,1050,446,468000
+1966,Service Residence,2,2,947,876,830000
+1967,Service Residence,2,1,680,662,450000
+1968,Service Residence,2,2,645,783,505000
+1969,Service Residence,2,2,708,605,428000
+1970,Service Residence,2,2,632,641,405000
+1971,Service Residence,3,2,953,661,630000
+1972,Service Residence,2,2,800,750,600000
+1973,Service Residence,3,2,1350,732,988000
+1974,Service Residence,2,2,709,621,440000
+1975,Service Residence,1,1,1103,1088,1200000
+1976,Service Residence,3,2,808,369,298000
+1977,Service Residence,2,2,722,582,420000
+1978,Service Residence,1,1,743,983,730000
+1979,Service Residence,4,3,1050,446,468000
+1980,Service Residence,2,2,600,418,251000
+1981,Service Residence,3,2,858,582,499000
+1982,Service Residence,2,2,1060,783,830000
+1983,Service Residence,2,2,1066,713,760000
+1984,Service Residence,4,2,1036,463,480000
+1985,Service Residence,3,2,940,606,570000
+1986,Service Residence,3,2,900,683,615000
+1987,Service Residence,3,2,878,510,448000
+1988,Service Residence,1,1,904,1648,1490050
+1989,Service Residence,4,2,1039,451,468888
+1990,Service Residence,4,2,1036,431,446800
+1991,Service Residence,3,3,1250,646,808000
+1992,Service Residence,3,2,811,456,369888
+1993,Service Residence,4,2,1039,429,445800
+1994,Service Residence,3,2,935,642,600000
+1995,Service Residence,2,2,1076,1115,1200000
+1996,Service Residence,3,2,950,726,690000
+1997,Service Residence,3,2,868,575,499000
+1998,Service Residence,3,2,901,488,440000
+1999,Service Residence,2,2,890,980,872200
+2000,Service Residence,2,2,913,723,660000
+2001,Service Residence,2,2,1204,488,588000
+2002,Service Residence,3,2,940,606,570000
+2003,Service Residence,3,2,1022,1957,2000000
+2004,Service Residence,2,2,1410,745,1050000
+2005,Service Residence,2,2,550,505,278000
+2006,Service Residence,1,1,657,609,400000
+2007,Service Residence,3,2,1056,521,550000
+2008,Service Residence,2,2,959,730,700000
+2009,Service Residence,3,2,860,672,578000
+2010,Service Residence,2,1,653,536,350000
+2011,Service Residence,2,2,912,757,690000
+2012,Service Residence,2,2,708,605,428000
+2013,Service Residence,3,2,990,656,649000
+2014,Service Residence,1,2,887,1003,890000
+2015,Service Residence,1,1,500,580,290000
+2016,Service Residence,2,2,935,727,680000
+2017,Service Residence,4,2,1034,444,458888
+2018,Service Residence,2,2,732,492,360000
+2019,Service Residence,4,2,1036,443,458800
+2020,Service Residence,4,2,1100,403,442800
+2021,Service Residence,1,1,761,1141,868000
+2022,Service Residence,3,2,803,374,300000
+2023,Service Residence,2,2,611,570,348000
+2024,Service Residence,2,1,500,398,199000
+2025,Service Residence,2,2,800,438,350000
+2026,Service Residence,1,1,689,871,600000
+2027,Service Residence,4,2,1036,453,468800
+2028,Service Residence,2,2,920,630,580000
+2029,Service Residence,2,1,667,742,495000
+2030,Service Residence ,2,2,850,529,450000
+2031,Service Residence ,2,2,753,498,375000
+2032,Service Residence ,2,2,999,1001,1000080
+2033,Service Residence ,2,2,771,764,588700
+2034,Service Residence ,2,2,661,885,585000
+2035,Service Residence ,3,2,900,545,490800
+2036,Service Residence ,2,2,877,981,860000
+2037,Service Residence ,1,1,543,552,300000
+2038,Service Residence ,2,2,782,806,630000
+2039,Service Residence ,2,2,908,717,650888
+2040,Service Residence ,2,2,888,901,800000
+2041,Service Residence ,2,2,850,706,600000
+2042,Service Residence ,2,1,660,667,440000
+2043,Service Residence ,2,2,908,560,508888
+2044,Service Residence ,2,2,880,886,780000
+2045,Service Residence ,2,2,1204,814,980000
+2046,Service Residence ,2,2,850,940,799000
+2047,Service Residence ,3,2,950,379,360000
+2048,Service Residence ,2,2,998,1010,1008000
+2049,Service Residence ,1,1,500,880,440000
+2050,Service Residence ,1,1,625,720,450000
+2051,Service Residence ,2,2,1000,1010,1010000
+2052,Service Residence ,2,2,908,574,520888
+2053,Service Residence ,2,2,898,878,788000
+2054,Service Residence ,2,2,1100,1545,1700000
+2055,Service Residence ,2,2,887,860,763000
+2056,Service Residence ,3,2,1132,521,590000
+2057,Service Residence ,3,2,948,591,560000
+2058,Service Residence ,3,2,950,474,450000
+2059,Service Residence ,3,2,900,600,540000
+2060,Service Residence ,3,2,1095,374,410000
+2061,Service Residence ,2,2,888,866,768800
+2062,Service Residence ,1,1,718,2786,2000000
+2063,Service Residence ,1,1,538,2045,1100000
+2064,Service Residence ,2,2,904,537,485000
+2065,Service Residence ,3,2,1288,606,780000
+2066,Service Residence ,3,2,1031,1484,1530000
+2067,Service Residence ,3,2,950,537,510000
+2068,Service Residence ,3,2,1094,558,610000
+2069,Service Residence ,3,2,1044,851,888000
+2070,Service Residence ,3,2,830,584,485000
+2071,Service Residence ,1,1,708,918,650000
+2072,Service Residence ,2,2,996,591,589000
+2073,Service Residence ,3,2,915,764,699000
+2074,Service Residence ,3,2,1100,444,488000
+2075,Service Residence ,3,2,958,647,620000
+2076,Service Residence ,2,2,651,948,616888
+2077,Service Residence ,2,2,725,1386,1005000
+2078,Service Residence ,2,3,995,1403,1396000
+2079,Service Residence ,2,1,721,481,347000
+2080,Service Residence ,2,2,1098,1469,1613000
+2081,Service Residence ,3,2,1000,880,880000
+2082,Service Residence ,1,2,689,856,590000
+2083,Service Residence ,3,2,1176,408,480000
+2084,Service Residence ,2,2,908,743,675000
+2085,Service Residence ,2,2,1022,941,962000
+2086,Service Residence ,3,3,636,2059,1309800
+2087,Service Residence ,4,3,1410,489,690000
+2088,Service Residence ,3,2,1033,649,670000
+2089,Service Residence ,2,1,679,567,385000
+2090,Service Residence ,2,1,625,2211,1381800
+2091,Service Residence ,3,2,1364,792,1080000
+2092,Service Residence ,4,2,1059,359,380000
+2093,Service Residence ,2,1,675,578,390000
+2094,Service Residence ,3,2,957,596,570000
+2095,Service Residence ,2,2,878,682,599000
+2096,Service Residence ,1,1,460,837,385000
+2097,Service Residence ,2,2,700,483,338000
+2098,Service Residence ,2,2,788,1079,850000
+2099,Service Residence ,4,2,850,530,450800
+2100,Service Residence ,3,2,984,528,520000
+2101,Service Residence ,4,3,1484,654,970000
+2102,Service Residence ,3,2,1122,548,615000
+2103,Service Residence ,5,5,1687,646,1090000
+2104,Service Residence ,3,2,984,528,520000
+2105,Service Residence ,2,2,700,686,480000
+2106,Service Residence ,3,2,929,646,600000
+2107,Service Residence ,2,2,996,753,750000
+2108,Service Residence ,3,2,900,488,438888
+2109,Service Residence ,2,2,718,472,339088
+2110,Service Residence ,3,2,966,430,415000
+2111,Service Residence ,3,1,1080,454,490000
+2112,Service Residence ,3,2,878,421,370000
+2113,Service Residence ,3,2,800,375,300000
+2114,Service Residence ,3,2,800,519,415000
+2115,Service Residence ,2,2,998,1011,1008800
+2116,Service Residence ,2,2,993,1025,1018000
+2117,Service Residence ,2,2,988,607,600000
+2118,Service Residence ,2,2,708,594,420888
+2119,Service Residence ,4,2,950,514,488000
+2120,Service Residence ,3,2,1000,500,499999
+2121,Service Residence ,2,2,888,664,590000
+2122,Service Residence ,1,1,555,991,550000
+2123,Service Residence ,3,2,822,825,678000
+2124,Service Residence ,2,1,610,1033,630000
+2125,Terraced House,5,5,2941,426,1252000
+2126,Terraced House,4,3,1800,436,785000
+2127,Terraced House,5,5,2623,366,959000
+2128,Terraced House,5,3,2000,425,850000
+2129,Terraced House,4,2,1650,297,490000
+2130,Terraced House,6,5,3136,283,886000
+2131,Terraced House,3,2,2131,328,700000
+2132,Terraced House,3,1,1870,294,550000
+2133,Terraced House ,4,3,3100,426,1320000
+2134,Townhouse,3,2,1400,336,470000
+2135,Townhouse,3,3,1727,347,599000
+2136,Townhouse,3,2,2500,712,1780000
+2137,Townhouse,3,3,900,320,288000
+2138,Townhouse,4,2,1800,278,500000
+2139,Townhouse,3,3,1200,533,640000
+2140,Townhouse,3,2,1400,350,490000
+2141,Townhouse,3,3,900,320,288000
+2142,Townhouse,4,4,2636,493,1300000
+2143,Townhouse,3,2,1814,357,648000
+2144,Townhouse,3,3,1615,378,610000
+2145,Townhouse,5,3,3500,429,1499999
+2146,Townhouse,3,3,1728,318,550000
+2147,Townhouse,3,3,1927,397,765000
+2148,Townhouse,3,3,1183,575,680000
+2149,Townhouse,4,3,2100,324,680000
+2150,Townhouse,2,2,1760,625,1100000
+2151,Townhouse ,4,4,2449,694,1700000
+2152,Townhouse ,3,3,1850,350,648000
+2153,Townhouse Condo ,3,3,1600,294,470000
+2154,Twin Courtyard Villa ,3,3,3434,378,1298000
+2155,Twin Villas,5,3,3800,286,1088000
+2156,Twin Villas ,4,3,3600,314,1130000
