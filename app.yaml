@@ -1,4 +1,4 @@
-service: default
+service: malaysia-housing-data-analytics-app
 runtime: python37
 
 basic_scaling:
